@@ -1,0 +1,6 @@
+{
+  "name": "Friend RSS Hub",
+  "description": "Upxuu's Friend RSS Aggregator / 友情链接 RSS 聚合订阅中心",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
