@@ -123,7 +123,7 @@ export default function App() {
             >
               <div className="w-18 h-18 rounded-full bg-white border-2 border-[#0092d8] p-0.5 shadow-sm">
                 <img 
-                  src="https://avatars.githubusercontent.com/u/119206123?v=4" 
+                  src="https://upxuu.com/images/me.jpg" 
                   alt="Upxuu Avatar" 
                   className="w-full h-full rounded-full object-cover"
                 />
