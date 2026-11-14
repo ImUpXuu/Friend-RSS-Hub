@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+# Build-time public feeds generated from the current remote friends list.
+/public/moments.json
+/public/moments.xml
+/public/rss.xml
+/public/api/moments.json
+/public/api/moments.xml

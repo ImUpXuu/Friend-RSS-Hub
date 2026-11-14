@@ -1,4 +1,5 @@
 import Parser from 'rss-parser';
+import { createHash } from 'crypto';
 import * as fs from 'fs';
 import * as path from 'path';
 
@@ -14,14 +15,38 @@ interface Friend {
 }
 
 interface Article {
+  id: string;
   title: string;
   link: string;
   pubDate: string; // ISO String
+  content: string;
   snippet: string;
   friendName: string;
   friendAvatar: string;
   friendUrl: string;
   isRecent: boolean;
+}
+
+interface MetadataItem {
+  id: string;
+  title: string;
+  link: string;
+  description: string;
+  content: string;
+  author: string;
+  authorUrl: string;
+  avatar: string;
+  publishedAt: string;
+  source: string;
+  sourceUrl: string;
+}
+
+interface MetadataFeed {
+  items: MetadataItem[];
+  generatedAt: string;
+  rangeStart: string;
+  rangeEnd: string;
+  total: number;
 }
 
 interface AggregatedData {
@@ -124,6 +149,77 @@ function resolveLink(feedLink: string, itemLink: string): string {
   }
 }
 
+function createArticleId(friendUrl: string, title: string, link: string, pubDate: string): string {
+  return createHash('sha256')
+    .update(`${friendUrl}\n${title}\n${link}\n${pubDate}`)
+    .digest('hex')
+    .slice(0, 20);
+}
+
+function escapeXml(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/\"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function buildMetadataFeed(articles: Article[], generatedAt: Date): MetadataFeed {
+  const rangeEnd = generatedAt.toISOString();
+  const rangeStartDate = new Date(generatedAt.getTime() - 15 * 24 * 60 * 60 * 1000);
+  const rangeStart = rangeStartDate.toISOString();
+  const items = articles
+    .filter(article => article.pubDate >= rangeStart && article.pubDate <= rangeEnd)
+    .sort((a, b) => b.pubDate.localeCompare(a.pubDate))
+    .map(article => ({
+      id: article.id,
+      title: article.title,
+      link: article.link,
+      description: article.snippet,
+      content: article.content,
+      author: article.friendName,
+      authorUrl: article.friendUrl,
+      avatar: article.friendAvatar,
+      publishedAt: article.pubDate,
+      source: article.friendName,
+      sourceUrl: article.friendUrl,
+    }));
+
+  return {
+    items,
+    generatedAt: rangeEnd,
+    rangeStart,
+    rangeEnd,
+    total: items.length,
+  };
+}
+
+function buildRssXml(feed: MetadataFeed): string {
+  const items = feed.items.map(item => `
+    <item>
+      <guid isPermaLink=\"false\">${escapeXml(item.id)}</guid>
+      <title>${escapeXml(item.title)}</title>
+      <link>${escapeXml(item.link)}</link>
+      <description>${escapeXml(item.description)}</description>
+      <content:encoded><![CDATA[${item.content.replace(/]]>/g, ']]]]><![CDATA[>')}]]></content:encoded>
+      <author>${escapeXml(item.author)}</author>
+      <pubDate>${new Date(item.publishedAt).toUTCString()}</pubDate>
+      <source url=\"${escapeXml(item.sourceUrl)}\">${escapeXml(item.source)}</source>
+    </item>`).join('');
+
+  return `<?xml version=\"1.0\" encoding=\"UTF-8\"?>
+<rss version=\"2.0\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\">
+  <channel>
+    <title>Friend RSS Hub</title>
+    <link>https://friend.upxuu.com/</link>
+    <description>Friends' recent blog updates</description>
+    <lastBuildDate>${new Date(feed.generatedAt).toUTCString()}</lastBuildDate>${items}
+  </channel>
+</rss>
+`;
+}
+
 async function run() {
   const friends = await getFriends();
   const articles: Article[] = [];
@@ -190,12 +286,16 @@ async function run() {
             const title = item.title ? item.title.trim() : '无题';
             const link = resolveLink(friend.url, item.link || '');
             const content = item.content || item['content:encoded'] || item.contentSnippet || '';
-            const snippet = stripHtml(content).slice(0, 150) + (content.length > 150 ? '...' : '');
+            const plainText = stripHtml(content);
+            const snippet = plainText.slice(0, 150) + (plainText.length > 150 ? '...' : '');
+            const pubDate = date.toISOString();
 
             articles.push({
+              id: createArticleId(friend.url, title, link, pubDate),
               title,
               link,
-              pubDate: date.toISOString(),
+              pubDate,
+              content,
               snippet: snippet || '快来点击阅读全文吧 ➜',
               friendName: friend.name,
               friendAvatar: friend.avatar || '',
@@ -262,6 +362,29 @@ async function run() {
     JSON.stringify(outputData, null, 2),
     'utf-8'
   );
+
+  // Generate stable public feeds for blog consumers. These files are created at
+  // build time so Vercel can serve them as static assets without a serverless
+  // runtime, and both paths remain available for simple feed integrations.
+  const metadataFeed = buildMetadataFeed(articles, buildTime);
+  const publicDir = path.join(process.cwd(), 'public');
+  const apiDir = path.join(publicDir, 'api');
+  fs.mkdirSync(apiDir, { recursive: true });
+  const metadataJson = JSON.stringify(metadataFeed, null, 2);
+  const rssXml = buildRssXml(metadataFeed);
+  for (const outputPath of [
+    path.join(publicDir, 'moments.json'),
+    path.join(apiDir, 'moments.json'),
+  ]) {
+    fs.writeFileSync(outputPath, metadataJson, 'utf-8');
+  }
+  for (const outputPath of [
+    path.join(publicDir, 'moments.xml'),
+    path.join(apiDir, 'moments.xml'),
+    path.join(publicDir, 'rss.xml'),
+  ]) {
+    fs.writeFileSync(outputPath, rssXml, 'utf-8');
+  }
 
   console.log(`\nAggregated Data Stats:`);
   console.log(`- Friends list count: ${outputData.friendsCount}`);
