@@ -1,0 +1,47 @@
+name: Build and Commit Dist
+
+on:
+  schedule:
+    # 与原 vercel-trigger 相同的节奏：每 6 小时构建一次
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # 允许在 GitHub UI 手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-dist
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install Dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Build (fetch RSS + vite build)
+        run: npm run build
+
+      - name: Commit and Push dist
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          if git diff --cached --quiet; then
+            echo "dist 无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: 定时构建更新 dist 产物"
+          git push
