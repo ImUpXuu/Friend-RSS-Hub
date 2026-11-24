@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "c8dd68ce6cbd24684445",
+      "title": "把 Apple 液态玻璃搬到顶栏：磨砂之上还有一层折射",
+      "link": "https://www.9ll.uk/posts/blog/liquidglassnavbar/",
+      "description": "参考 Muyu 的教程给胶囊导航栏补上 SVG 位移折射：backdrop-filter 先磨砂，filter 再把磨砂结果扭一下。两层都挂在 ::before，文字不受影响，面板里的毛玻璃也不会被 backdrop root 吃掉。顺手把菜单项从「小胶囊套大胶囊」改成参考站那种一整块玻璃 + 平铺...",
+      "content": "参考 Muyu 的教程给胶囊导航栏补上 SVG 位移折射：backdrop-filter 先磨砂，filter 再把磨砂结果扭一下。两层都挂在 ::before，文字不受影响，面板里的毛玻璃也不会被 backdrop root 吃掉。顺手把菜单项从「小胶囊套大胶囊」改成参考站那种一整块玻璃 + 平铺文字。只动了页脚配置，240 行纯新增，上游主题一个文件没碰。",
+      "author": "折腾进行中",
+      "authorUrl": "https://www.9ll.uk/",
+      "avatar": "https://www.google.com/s2/favicons?domain=www.9ll.uk&sz=128",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "source": "折腾进行中",
+      "sourceUrl": "https://www.9ll.uk/"
+    },
+    {
+      "id": "4b57520afd88cc73d773",
+      "title": "凌晨两点，我给博客开了间茶室：Matrix 联邦接入的全流程与十几个坑",
+      "link": "https://www.9ll.uk/posts/blog/tingyutearoom/",
+      "description": "起因只是看到别人页面上有个聊天室，想进去说句话。结果一路拆到 Matrix 联邦、自建 homeserver、Cloudflare Worker 桥接，最后长成七千行前端加一千五百行服务端的一间茶室。这篇按当时的顺序写清楚：每一步要做什么、为什么这么做、会在哪里卡住。",
+      "content": "起因只是看到别人页面上有个聊天室，想进去说句话。结果一路拆到 Matrix 联邦、自建 homeserver、Cloudflare Worker 桥接，最后长成七千行前端加一千五百行服务端的一间茶室。这篇按当时的顺序写清楚：每一步要做什么、为什么这么做、会在哪里卡住。",
+      "author": "折腾进行中",
+      "authorUrl": "https://www.9ll.uk/",
+      "avatar": "https://www.google.com/s2/favicons?domain=www.9ll.uk&sz=128",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "source": "折腾进行中",
+      "sourceUrl": "https://www.9ll.uk/"
+    },
+    {
       "id": "c6303cddba21e914e441",
       "title": "豆包工作 VS Workbuddy 图片分类排序对比",
       "link": "https://vind.ink/AI-tools/1082.html",
@@ -53,19 +79,6 @@
       "sourceUrl": "https://zyzu.top"
     },
     {
-      "id": "6b35c6bb2a52a502933b",
-      "title": "GPT Pro 账号被封了",
-      "link": "https://www.leorain.cn/article/the-gpt-pro-account-has-been-blocked",
-      "description": "快来点击阅读全文吧 ➜",
-      "content": "",
-      "author": "leorain",
-      "authorUrl": "https://www.leorain.cn",
-      "avatar": "https://www.leorain.cn/images/logo.png",
-      "publishedAt": "2026-11-23T06:48:14.000Z",
-      "source": "leorain",
-      "sourceUrl": "https://www.leorain.cn"
-    },
-    {
       "id": "29a029a1b46d626b3b54",
       "title": "2026 OSGJ 日志一：〈滚幕〉",
       "link": "https://xingwangzhe.fun/posts/osgj-devlog-1-credits/",
@@ -116,19 +129,6 @@
       "publishedAt": "2026-11-22T13:00:00.000Z",
       "source": "xf_blog",
       "sourceUrl": "https://xfchannel.top"
-    },
-    {
-      "id": "6a4542c22faaec909195",
-      "title": "初音拔河图",
-      "link": "https://blog.fufu520.cn/archives/01a202bf-f3fb-7109-abf2-9eb5171e56e1",
-      "description": "原图来自： https://x.com/mirute3939/status/2123967607741239782 横屏全图 十八张裁剪图",
-      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=%E5%88%9D%E9%9F%B3%E6%8B%94%E6%B2%B3%E5%9B%BE&amp;url=/archives/01a202bf-f3fb-7109-abf2-9eb5171e56e1\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<p style=\"\">原图来自：<a href=\"https://x.com/mirute3939/status/2123967607741239782\" target=\"_self\" rel=\"\">https://x.com/mirute3939/status/2123967607741239782</a></p>\n<h2 id=\"%E6%A8%AA%E5%B1%8F%E5%85%A8%E5%9B%BE\" style=\"\">横屏全图</h2>\n<figure data-content-type=\"image\" style=\"display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F%25E5%2588%259D%25E9%259F%25B3%25E6%258B%2594%25E6%25B2%25B3.png&amp;size=m\" alt=\"初音拔河.png\" width=\"7632px\">\n</figure>\n<h2 id=\"%E5%8D%81%E5%85%AB%E5%BC%A0%E8%A3%81%E5%89%AA%E5%9B%BE\" style=\"\">十八张裁剪图</h2>\n<div images=\"[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]\" groupsize=\"1\" layout=\"auto\" gap=\"0\" data-type=\"gallery\" data-group-size=\"1\" data-layout=\"auto\" data-gap=\"0\">\n <div style=\"display: grid; gap: 0px;\">\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F1BA561BC25D4915B137953F83FAE555C.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FAB6BAC53A1B769D1713519FBBF9202E0.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F3AD2B7E2BB3B8982E3662386C867D644.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F0F60C253D115944CEF133FA76B6A5325.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FA4CB894D61D5AFA0B2AA5E12C9BD2878.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FDDE253FA38D07D57740776F47079D69F.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F32CA7CEB6F686D2CD0F589B6975E19EF.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F2A72673121E7DA68831DC0634217677E.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FA178E1BBF83C72773AE22BFE057256F6.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F1948F04C9AB0E7AEA533AF737C28FDE7.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FDAE55E906D5A2FFFC428234AB0951DB9.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F8385F84F41612F80CB14C09506BAF5F3.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F478971FB7D4804B30DBAC769CFBBA5CC.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FC779D5362BDCBE6FD76CDF4048931C0B.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FEA4666A5F26D000A0FCB7F7616D53262.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FC2FC1AE0ED989D797286015579E1F84A.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FB368165D4965510AD3F52A9A7DFF52F9.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F0BC07686DAE9BDEB6BAC21CBDB07C884.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n </div>\n</div>\n<p style=\"\"></p>",
-      "author": "fufuの小窝",
-      "authorUrl": "https://blog.fufu520.cn/",
-      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
-      "publishedAt": "2026-11-22T10:23:06.000Z",
-      "source": "fufuの小窝",
-      "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
       "id": "56ec4a407f5f10646600",
@@ -207,19 +207,6 @@
       "publishedAt": "2026-11-22T08:41:23.000Z",
       "source": "Somoe Home",
       "sourceUrl": "https://somoe.xyz"
-    },
-    {
-      "id": "9a02d796fdfd2d2cad86",
-      "title": "Windows托盘无线设备电量监视器",
-      "link": "https://blog.fufu520.cn/archives/01a2025c-cedf-771e-8d45-9dc137ad8c3b",
-      "description": "前言 Windows 原生系统一直有一个很让人头疼的短板：对无线外设的电量支持十分有限。蓝牙 TWS 耳机、无线键鼠、游戏手柄就算已经正常连接，右下角托盘也不会直接展示剩余电量；想要看电量，往往得装上罗技 G HUB、雷蛇雷云、各家厂商臃肿的配套软件，后台一堆进程占用资源，开机自启还拖慢系统。 今天...",
-      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=Windows%E6%89%98%E7%9B%98%E6%97%A0%E7%BA%BF%E8%AE%BE%E5%A4%87%E7%94%B5%E9%87%8F%E7%9B%91%E8%A7%86%E5%99%A8&amp;url=/archives/01a2025c-cedf-771e-8d45-9dc137ad8c3b\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<p style=\"\"></p>\n<figure data-content-type=\"image\" style=\"display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FWindows%25E6%2589%2598%25E7%259B%2598%25E6%2597%25A0%25E7%25BA%25BF%25E8%25AE%25BE%25E5%25A4%2587%25E7%2594%25B5%25E9%2587%258F%25E7%259B%2591%25E8%25A7%2586%25E5%2599%25A8-cover-MnbF.png&amp;size=m\" alt=\"Windows托盘无线设备电量监视器-cover-MnbF.png\" width=\"1200px\">\n</figure>\n<h3 id=\"%E5%89%8D%E8%A8%80\" style=\"\">前言</h3>\n<p style=\"\">Windows 原生系统一直有一个很让人头疼的短板：对无线外设的电量支持十分有限。蓝牙 TWS 耳机、无线键鼠、游戏手柄就算已经正常连接，右下角托盘也不会直接展示剩余电量；想要看电量，往往得装上罗技 G HUB、雷蛇雷云、各家厂商臃肿的配套软件，后台一堆进程占用资源，开机自启还拖慢系统。</p>\n<p style=\"\">今天分享这款 <strong>Wireless-Device-Battery-Monitor</strong> 就是专门解决这个痛点的轻量托盘工具。不需要安装繁杂的厂商套件，驻留在任务栏托盘自动扫描设备，统一查看键鼠、耳机、手柄电量，还自带低电量提醒。如果你桌面无线外设多、讨厌一堆厂商后台常驻，这个工具会非常合适。</p>\n<h2 id=\"%E6%A0%B8%E5%BF%83%E7%89%B9%E7%82%B9\" style=\"\">核心特点</h2>\n<ol>\n <li>\n  <p style=\"\"><strong>极致轻量</strong>：程序本体仅约 350KB，内存占用极低，后台静默运行，几乎不占用系统资源；支持便携版，也提供安装包，<strong>不需要管理员权限即可运行</strong>。</p>\n </li>\n <li>\n  <p style=\"\"><strong>原生托盘显示</strong>：电量图标直接驻留在 Win10/Win11 右下角托盘，点开即可看到所有已连接设备的百分比，解决 Windows 原生无法查看大部分无线外设电量的痛点。</p>\n </li>\n <li>\n  <p style=\"\"><strong>多协议兼容</strong>：同时支持蓝牙设备、2.4G 接收器（优联、Bolt、无线接收器），底层兼容 HeadsetControl 耳机协议。</p>\n </li>\n <li>\n  <p style=\"\"><strong>低电量提醒</strong>：可自定义阈值，电量过低时弹窗通知，避免使用中途断电。</p>\n </li>\n <li>\n  <p style=\"\"><strong>多设备同时识别</strong>：鼠标、键盘、耳机、手柄同时接入时，全部独立展示电量，支持手动隐藏不需要显示的设备。</p>\n </li>\n <li>\n  <p style=\"\"><strong>无强制后台服务</strong>：纯托盘应用，退出即停止，不会常驻系统服务；也可以设置开机自启。</p>\n </li>\n <li>\n  <p style=\"\"><strong>兼容共存</strong>：可以和厂商官方驱动同时运行，不会发生冲突。</p>\n </li>\n</ol>\n<figure data-indent=\"24\" data-content-type=\"image\" style=\"align-items: center; display: flex; flex-direction: column; margin-left: 24px !important; max-width: calc(100% - 24px) !important;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fcdn.jsdmirror.com%2Fgh%2Fkrisgfx9%2FWireless-Device-Battery-Monitor%40main%2Fdocs%2Fscreenshot.png&amp;size=m\" width=\"500px\">\n</figure>\n<p data-indent=\"24\" style=\"margin-left: 24px !important; max-width: calc(100% - 24px) !important;\"></p>\n<h2 id=\"%E9%83%A8%E7%BD%B2-%26-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F\" style=\"\">部署 &amp; 使用方式</h2>\n<ul>\n <li>\n  <p style=\"\"><strong>项目地址</strong>：<a href=\"https://github.com/krisgfx9/Wireless-Device-Battery-Monitor\">https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</a></p>\n </li>\n <li>\n  <p style=\"\"><strong>安装版</strong>：进入 <a href=\"https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/releases\" target=\"_self\" rel=\"\">Releases</a> 下载 <code>WirelessBattery-Setup.exe</code>，一路下一步安装，自动添加开机自启选项。</p>\n </li>\n <li>\n  <p style=\"\"><strong>便携版</strong>：下载 zip 包解压，直接运行 <code>WirelessBattery.exe</code>，适合放在 U 盘使用，不写入注册表。</p>\n </li>\n <li>\n  <p style=\"\"><strong>命令行参数</strong>：高级用户支持命令行启动参数，用于自定义刷新频率、日志输出等。</p>\n </li>\n <li>\n  <p style=\"\"><strong>使用流程</strong>：打开软件 → 自动扫描已连接无线外设 → 托盘图标点击查看电量 → 右键打开设置，配置提醒、隐藏设备、刷新间隔。</p>\n </li>\n</ul>\n<blockquote>\n <p style=\"\">注意：部分设备需要使用原厂 2.4G 接收器才能读取电量；仅蓝牙连接、没有厂商专属协议的设备，能否读取取决于 Windows 本身是否开放电量接口。</p>\n</blockquote>\n<h2 id=\"%E9%80%82%E5%90%88%E4%BA%BA%E7%BE%A4\" style=\"\">适合人群</h2>\n<p style=\"\">经常使用多品牌无线外设、不想安装各大厂商臃肿驱动套件、希望在任务栏一键查看键鼠耳机手柄电量的 Windows 用户；游戏玩家、桌面折腾党非常适合。</p>\n<h2 id=\"%E6%94%AF%E6%8C%81%E8%AE%BE%E5%A4%87%E6%80%BB%E8%A1%A8\" style=\"\">支持设备总表</h2>\n<blockquote>\n <p style=\"\">说明：部分设备区分【蓝牙模式 / 2.4G 接收器模式】；标注 “接收器” 代表必须使用原厂无线接收器才能读取电量，纯蓝牙连接可能识别失败；通用蓝牙设备只要 Windows 可读取电量，理论上都支持。</p>\n</blockquote>\n<p style=\"\">表格</p>\n<div class=\"halo-table-wrapper\" data-table-layout=\"auto\" style=\"box-sizing: border-box; overflow: auto hidden; width: 100%; max-width: 100%; min-width: 0px;\">\n <table data-table-layout=\"auto\" style=\"display: table; width: 100%; min-width: 100%; table-layout: auto;\">\n  <tbody>\n   <tr>\n    <th colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">品牌</p>\n    </th>\n    <th colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">支持设备型号</p>\n    </th>\n    <th colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">读取方式</p>\n    </th>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Logitech（罗技）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Unifying 优联、Bolt 系列鼠标 / 键盘；G Pro X Superlight、G305、G502 X、G703、G903、MX Master、MX Keys 等</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">优联 / Bolt 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Razer（雷蛇）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">DeathAdder V3 Pro、Basilisk V3 Pro、Viper V2 Pro、Barracuda X、BlackShark V2 HyperSpeed 等无线键鼠耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">雷蛇 2.4G 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">SteelSeries（赛睿）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Arctis 系列耳机、Aerox 无线鼠标、无线键盘</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">原厂接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Corsair（海盗船）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Katar Elite、Sabre 无线、K65 无线键盘、HS 系列耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">原厂接收器</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">HyperX</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Cloud Flight、Cloud Stinger 无线耳机、无线鼠标</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Glorious</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Model D 2 Pro、Model O 2 Pro 等无线鼠标</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">2.4G 接收器</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Astro</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">A50 Gen4、A50 Gen3、A20 无线耳机底座版</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">底座 / USB 接收器</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Samsung（三星）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Galaxy Buds、Buds Live、Buds Pro、Buds2、Buds2 Pro、Buds FE</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">蓝牙（左右耳 + 充电仓电量）</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Sony</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">DualSense、DualSense Edge、INZONE H9/H7 耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">手柄蓝牙 / USB 适配器、耳机蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">JBL</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Quantum 系列无线耳机（Quantum 910、800、650 等）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">2.4G 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Jabra</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Jabra 全系无线耳机、会议耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">USB 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Xbox</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Xbox 无线手柄（Xbox Series / Xbox One）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Xbox 无线适配器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Gamesir（盖世小鸡）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">无线手柄、无线耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">2.4G 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">通用蓝牙设备</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Windows 系统原生可以读取电量的蓝牙键鼠、耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">蓝牙</p>\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<p style=\"\"></p>\n<h2 id=\"%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E\" style=\"\">补充说明</h2>\n<ol>\n <li>\n  <p style=\"\">项目持续更新，新设备支持会不断合并进主分支，遇到识别失败可以去 GitHub Issue 提交设备 VID/PID 反馈。</p>\n </li>\n <li>\n  <p style=\"\">部分 TWS 耳机只能读取总电量，无法分开读取左右耳 + 充电仓，由设备固件协议限制，不是软件问题。</p>\n </li>\n <li>\n  <p style=\"\">和同类工具对比：相比 TrayS、单独的蓝牙电量工具，它优势是<strong>统一兼容 2.4G 游戏外设 + 蓝牙耳机手柄</strong>，不用分开多个工具。</p>\n </li>\n</ol>\n<p style=\"\"></p>",
-      "author": "fufuの小窝",
-      "authorUrl": "https://blog.fufu520.cn/",
-      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
-      "publishedAt": "2026-11-22T08:28:00.000Z",
-      "source": "fufuの小窝",
-      "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
       "id": "f0f3fa42ecf18e7e165d",
@@ -482,19 +469,6 @@
       "sourceUrl": "https://wang618.cn/"
     },
     {
-      "id": "e8f88d088280c1533599",
-      "title": "fufuの小窝恢复访问！",
-      "link": "https://blog.fufu520.cn/archives/01a1feca-fcdb-75dc-a9b0-1e042fc7d60c",
-      "description": "fufuの小窝 恢复访问啦！ 前段时间学业繁忙，服务器暂停了十几天没能打理。 博客现已恢复正常，很抱歉让大家久等。 因长时间离线，部分友链被对方清理移除，后续我会慢慢核对补回，也欢迎各位大佬重新交换友链。 送上一张初音拔河图：",
-      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=fufu%E3%81%AE%E5%B0%8F%E7%AA%9D%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE%EF%BC%81&amp;url=/archives/01a1feca-fcdb-75dc-a9b0-1e042fc7d60c\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<p style=\"\">fufuの小窝 恢复访问啦！</p>\n<p style=\"\">前段时间学业繁忙，服务器暂停了十几天没能打理。</p>\n<p style=\"\">博客现已恢复正常，很抱歉让大家久等。</p>\n<p style=\"\"><code>因长时间离线，部分友链被对方清理移除，后续我会慢慢核对补回，也欢迎各位大佬重新交换友链。</code></p>\n<p style=\"\">送上一张初音拔河图：</p>\n<figure data-content-type=\"image\" style=\"display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F%25E5%2588%259D%25E9%259F%25B3%25E6%258B%2594%25E6%25B2%25B3.png&amp;size=m\" alt=\"初音拔河.png\" width=\"7632px\">\n</figure>\n<p style=\"\"></p>",
-      "author": "fufuの小窝",
-      "authorUrl": "https://blog.fufu520.cn/",
-      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
-      "publishedAt": "2026-11-21T15:55:07.000Z",
-      "source": "fufuの小窝",
-      "sourceUrl": "https://blog.fufu520.cn/"
-    },
-    {
       "id": "92626029e3ce56356c25",
       "title": "MetingAPI应用｜定制闹钟",
       "link": "https://luq-blog.xyz/posts/2026-11-21-custom-alarm/",
@@ -584,19 +558,6 @@
       "publishedAt": "2026-11-21T07:15:47.000Z",
       "source": "目的地-Destination",
       "sourceUrl": "https://chrison.cn"
-    },
-    {
-      "id": "eb9830e4206eeda37b52",
-      "title": "再见了豫FD186xx",
-      "link": "https://www.leorain.cn/article/non-local-residents-can-apply-for-a-new-energy-small-car-license-plate-in-hangzhou",
-      "description": "快来点击阅读全文吧 ➜",
-      "content": "",
-      "author": "leorain",
-      "authorUrl": "https://www.leorain.cn",
-      "avatar": "https://www.leorain.cn/images/logo.png",
-      "publishedAt": "2026-11-21T03:29:03.000Z",
-      "source": "leorain",
-      "sourceUrl": "https://www.leorain.cn"
     },
     {
       "id": "a92e0da76504b62a3049",
@@ -844,19 +805,6 @@
       "publishedAt": "2026-11-19T07:59:05.000Z",
       "source": "Fiee's Blog",
       "sourceUrl": "https://www.aifiee.cn"
-    },
-    {
-      "id": "02b8070d762975c458aa",
-      "title": "超越 Vibe Coding：Grok Bot 背后的工业级多 Agent 编排与架构约束",
-      "link": "https://ragnote.top/article/06cea4956a1f4d2db5be170732b102ef",
-      "description": "如果你每天还在手动复制报错、肉眼看 diff 验收 AI 写的代码，说明你的工程环境还没准备好迎接多 Agent 时代。本文详解 Lauren Tan 的“信任倒金字塔”与开源工具包 pstack，带你把脆弱的文字规范转化为自动变红的构建拦截。",
-      "content": "如果你每天还在手动复制报错、肉眼看 diff 验收 AI 写的代码，说明你的工程环境还没准备好迎接多 Agent 时代。本文详解 Lauren Tan 的“信任倒金字塔”与开源工具包 pstack，带你把脆弱的文字规范转化为自动变红的构建拦截。",
-      "author": "RAGNote",
-      "authorUrl": "https://ragnote.top/",
-      "avatar": "https://ragnote.top/Avatar.png",
-      "publishedAt": "2026-11-19T04:19:28.000Z",
-      "source": "RAGNote",
-      "sourceUrl": "https://ragnote.top/"
     },
     {
       "id": "4710a18a0cdefa72a964",
@@ -1197,19 +1145,6 @@
       "sourceUrl": "https://blog.xrbk.cn"
     },
     {
-      "id": "fcade213a72e97984e08",
-      "title": "折腾了一圈，聊聊我在公网跑 DSH 的镜像选型与踩坑",
-      "link": "https://blog.liseezn.top/1034.html/",
-      "description": "折腾公网部署 DeepSeek Harness（DSH）的真实记录。对比了 runzhliu、misaka-link、szczq 等主流社区镜像，最终选用纯净版。详细记录 1Panel/Compose 部署、解决权限 EACCES 报错、Nginx/SamWaf 反代 403 拦截，以及泛域名证书与...",
-      "content": "<p>折腾公网部署 DeepSeek Harness（DSH）的真实记录。对比了 runzhliu、misaka-link、szczq 等主流社区镜像，最终选用纯净版。详细记录 1Panel/Compose 部署、解决权限 EACCES 报错、Nginx/SamWaf 反代 403 拦截，以及泛域名证书与 noVNC 浏览器安全暴露的实战踩坑。</p>\n<p><a href=\"https://blog.liseezn.top/1034.html/\">折腾了一圈，聊聊我在公网跑 DSH 的镜像选型与踩坑</a>最先出现在<a href=\"https://blog.liseezn.top\">liseezn&#039;blog</a>。</p>\n",
-      "author": "Liseezn's blog",
-      "authorUrl": "https://blog.liseezn.top",
-      "avatar": "https://blog.liseezn.top/logo.webp",
-      "publishedAt": "2026-11-15T14:53:03.000Z",
-      "source": "Liseezn's blog",
-      "sourceUrl": "https://blog.liseezn.top"
-    },
-    {
       "id": "2ba878a74577296bf465",
       "title": "Murmur：用 GitHub Issue 写说说的小站",
       "link": "https://blog.furryawa.com/posts/54726/",
@@ -1221,19 +1156,6 @@
       "publishedAt": "2026-11-15T13:20:00.000Z",
       "source": "龙星划空",
       "sourceUrl": "https://furrity.pages.dev/"
-    },
-    {
-      "id": "45e75cbea01efb3f3090",
-      "title": "Zeabur将关停！20个应用迁移1Panel实战复盘（含官方迁移Agent教程）",
-      "link": "https://blog.liseezn.top/995.html/",
-      "description": "Zeabur 即将关服！本文基于20个应用真实迁移实战，详解导出Zeabur项目配置，迁移至自建服务器私有化部署。平台两次遭攻击是停运主因，官方发布Coding Agent迁出指南辅助用户迁移，降低搬家成本，包含避坑要点、迁移风险与托管平台私有化转型思路。 Zeabur将关停！20个应用迁移1Pan...",
-      "content": "<p>Zeabur 即将关服！本文基于20个应用真实迁移实战，详解导出Zeabur项目配置，迁移至自建服务器私有化部署。平台两次遭攻击是停运主因，官方发布Coding Agent迁出指南辅助用户迁移，降低搬家成本，包含避坑要点、迁移风险与托管平台私有化转型思路。</p>\n<p><a href=\"https://blog.liseezn.top/995.html/\">Zeabur将关停！20个应用迁移1Panel实战复盘（含官方迁移Agent教程）</a>最先出现在<a href=\"https://blog.liseezn.top\">liseezn&#039;blog</a>。</p>\n",
-      "author": "Liseezn's blog",
-      "authorUrl": "https://blog.liseezn.top",
-      "avatar": "https://blog.liseezn.top/logo.webp",
-      "publishedAt": "2026-11-15T03:28:09.000Z",
-      "source": "Liseezn's blog",
-      "sourceUrl": "https://blog.liseezn.top"
     },
     {
       "id": "955b58be13d768c0cd73",
@@ -1663,36 +1585,10 @@
       "publishedAt": "2026-11-09T09:15:18.000Z",
       "source": "Serendipity",
       "sourceUrl": "https://blog.liuhangyv.top"
-    },
-    {
-      "id": "1044b9c80c04092a7799",
-      "title": "听雨茶室更新啦，现在也能写 Markdown 小文章了",
-      "link": "https://rainzt.cn/posts/tingyu-tea-room-markdown-update/",
-      "description": "听雨茶室支持 Markdown 小文章啦：标题、列表、引用、表格和代码直接展示，还有账号资料统一、浏览器提醒与消息置顶。结尾留一个新功能的小预告。",
-      "content": "听雨茶室支持 Markdown 小文章啦：标题、列表、引用、表格和代码直接展示，还有账号资料统一、浏览器提醒与消息置顶。结尾留一个新功能的小预告。",
-      "author": "朝朝听雨",
-      "authorUrl": "http://rainzt.cn",
-      "avatar": "https://rainzt.cn/zzty.png",
-      "publishedAt": "2026-11-09T00:00:00.000Z",
-      "source": "朝朝听雨",
-      "sourceUrl": "http://rainzt.cn"
-    },
-    {
-      "id": "104c0628d9ed12a80564",
-      "title": "「说说」已严肃在workbuddy运行Windows 10",
-      "link": "https://upxuu.com/talk/2026-11-08-已严肃在workbuddy运行window--10/",
-      "description": "crazy！ 这你敢想 最开始我发现workbuddy移动端的这个逆天功能还是看到云电脑仨字，在wb的任务上面 比较逆天的是它没法和桌面端共享 直到昨天我魔改了一下openlist的前后端通讯协议以兼容它的发布应用网关https://pan.upxuu.com/ 一个跑在wb的后端的256gb硬盘就...",
-      "content": "crazy！ 这你敢想\n最开始我发现workbuddy移动端的这个逆天功能还是看到云电脑仨字，在wb的任务上面\n比较逆天的是它没法和桌面端共享\n直到昨天我魔改了一下openlist的前后端通讯协议以兼容它的发布应用网关https://pan.upxuu.com/ 一个跑在wb的后端的256gb硬盘就这么水灵灵诞生了\n起初我以为它的32h 128gb是虚拟化出来可以用的 结果还开了cgroup限制4",
-      "author": "UpXuu's blog",
-      "authorUrl": "https://upxuu.com",
-      "avatar": "https://upxuu.com/images/me.jpg",
-      "publishedAt": "2026-11-08T13:36:06.000Z",
-      "source": "UpXuu's blog",
-      "sourceUrl": "https://upxuu.com"
     }
   ],
-  "generatedAt": "2026-11-23T13:30:07.681Z",
-  "rangeStart": "2026-11-08T13:30:07.681Z",
-  "rangeEnd": "2026-11-23T13:30:07.681Z",
-  "total": 130
+  "generatedAt": "2026-11-24T00:21:07.596Z",
+  "rangeStart": "2026-11-09T00:21:07.596Z",
+  "rangeEnd": "2026-11-24T00:21:07.596Z",
+  "total": 122
 }
