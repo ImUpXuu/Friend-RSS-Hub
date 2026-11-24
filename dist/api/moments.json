@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "47040deacc3be02d7352",
+      "title": "最近主题和插件的更新",
+      "link": "https://vind.ink/Typecho-plugins-themes/1093.html",
+      "description": "最近又对主题和插件进行了一点更新，主要是下面几点：看群友所说，还有看见 Hary 也给博客添加了“评论提交60秒内可修改” ，我就让 Workbuddy 添加了功能。在上一条评论编辑功能更新后，...",
+      "content": "最近又对主题和插件进行了一点更新，主要是下面几点：看群友所说，还有看见 Hary 也给博客添加了“评论提交60秒内可修改” ，我就让 Workbuddy 添加了功能。在上一条评论编辑功能更新后，...",
+      "author": "风·墨",
+      "authorUrl": "https://Vind.ink",
+      "avatar": "https://Vind.ink/icon.png",
+      "publishedAt": "2026-11-24T02:22:00.000Z",
+      "source": "风·墨",
+      "sourceUrl": "https://Vind.ink"
+    },
+    {
       "id": "c8dd68ce6cbd24684445",
       "title": "把 Apple 液态玻璃搬到顶栏：磨砂之上还有一层折射",
       "link": "https://www.9ll.uk/posts/blog/liquidglassnavbar/",
@@ -25,6 +38,19 @@
       "publishedAt": "2026-11-24T00:00:00.000Z",
       "source": "折腾进行中",
       "sourceUrl": "https://www.9ll.uk/"
+    },
+    {
+      "id": "91d0988da9732d6165de",
+      "title": "LightC：开源轻量 Windows C 盘清理与系统维护工具",
+      "link": "https://blog.fufu520.cn/archives/01a20899-c40b-70bb-a3f5-af5e56d2e246",
+      "description": "项目简介 LightC 是一款面向 Windows 平台的 免费开源、轻量高性能 的 C 盘清理与系统维护工具，由个人开发者独立维护，基于 Tauri + Rust + React + TypeScript 技术栈开发，支持 Windows10 及以上操作系统。 不同于市面上大量闭源、捆绑广告、强制...",
+      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=LightC%EF%BC%9A%E5%BC%80%E6%BA%90%E8%BD%BB%E9%87%8F%20Windows%20C%20%E7%9B%98%E6%B8%85%E7%90%86%E4%B8%8E%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E5%B7%A5%E5%85%B7&amp;url=/archives/01a20899-c40b-70bb-a3f5-af5e56d2e246\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<figure data-content-type=\"image\" style=\"align-items: center; display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FLightC%25EF%25BC%259A%25E5%25BC%2580%25E6%25BA%2590%25E8%25BD%25BB%25E9%2587%258F-Windows-C-%25E7%259B%2598%25E6%25B8%2585%25E7%2590%2586%25E4%25B8%258E%25E7%25B3%25BB%25E7%25BB%259F%25E7%25BB%25B4%25E6%258A%25A4%25E5%25B7%25A5%25E5%2585%25B7-cover.png&amp;size=m\" alt=\"LightC：开源轻量-Windows-C-盘清理与系统维护工具-cover.png\" width=\"1200px\">\n</figure>\n<h2 id=\"%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B\" style=\"\">项目简介</h2>\n<p style=\"\">LightC 是一款面向 Windows 平台的<strong>免费开源、轻量高性能</strong>的 C 盘清理与系统维护工具，由个人开发者独立维护，基于 Tauri + Rust + React + TypeScript 技术栈开发，支持 Windows10 及以上操作系统。</p>\n<p style=\"\">不同于市面上大量闭源、捆绑广告、强制一键清理的系统清理软件，LightC 将磁盘清理、系统瘦身、磁盘分析、系统维护拆分为多个独立模块，所有操作由用户自主判断，附带安全风险提示，同时全部代码公开，用户可以审计源码，规避恶意行为风险。</p>\n<p style=\"\">随着长期使用，Windows 系统会堆积临时文件、应用缓存、驱动包、卸载残留、注册表冗余等各类垃圾，C 盘空间经常告急。传统系统自带磁盘清理能力有限，第三方工具又良莠不齐，LightC 正是为了解决这一痛点而生。</p>\n<p style=\"\"><strong>官网链接：</strong><a href=\"https://www.lightc.app/zh-CN/#docs\" target=\"_self\" rel=\"\"><strong>https://www.lightc.app/zh-CN/#docs</strong></a></p>\n<p style=\"\"><strong>项目地址：</strong><a href=\"https://github.com/Chunyu33/light-c/\" target=\"_self\" rel=\"\"><strong>https://github.com/Chunyu33/light-c/</strong></a></p>\n<p style=\"\"><strong>发行版地址：</strong><a href=\"https://github.com/Chunyu33/light-c/releases\" target=\"_self\" rel=\"\"><strong>https://github.com/Chunyu33/light-c/releases</strong></a></p>\n<figure data-content-type=\"image\" style=\"align-items: center; display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fwww.lightc.app%2Fassets%2Flightc-main.webp&amp;size=m\" width=\"60%\" height=\"auto\">\n</figure>\n<h2 id=\"%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84\" style=\"\">技术架构</h2>\n<p style=\"\">项目采用 Tauri 跨端桌面框架，后端核心逻辑使用 Rust 实现文件扫描、磁盘遍历、系统信息读取等高性能操作；前端使用 React + TypeScript 完成交互界面渲染。</p>\n<ul>\n <li>\n  <p style=\"\"><strong>Rust</strong>：负责底层磁盘扫描、文件 IO、系统接口调用，保证大目录扫描的速度与稳定性</p>\n </li>\n <li>\n  <p style=\"\"><strong>Tauri</strong>：替代传统 Electron，大幅缩减安装包体积，降低内存占用</p>\n </li>\n <li>\n  <p style=\"\"><strong>React + TypeScript</strong>：构建现代化桌面 UI，适配高分屏、4K 显示器，支持自定义字号调节</p>\n </li>\n <li>\n  <p style=\"\"><strong>开源协议</strong>：MIT 协议，完全免费，无内置付费功能，无弹窗广告</p>\n </li>\n</ul>\n<h2 id=\"%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97\" style=\"\">核心功能模块</h2>\n<p style=\"\">LightC 将全部功能划分为<strong>清理、瘦身、排查</strong>三大类别，合计 12 个功能模块，覆盖日常 C 盘维护绝大多数场景。</p>\n<h3 id=\"1.-%E6%B8%85%E7%90%86%E7%B1%BB%E6%A8%A1%E5%9D%97\" style=\"\">1. 清理类模块</h3>\n<h4 id=\"%E5%9E%83%E5%9C%BE%E6%B8%85%E7%90%86\" style=\"\">垃圾清理</h4>\n<p style=\"\">支持快速扫描与深度扫描两种模式，识别系统临时文件、传递优化缓存、缩略图缓存、DirectX 着色器缓存、Windows Defender 可重建缓存等系统垃圾。</p>\n<blockquote>\n <p style=\"\">不会盲目全选删除，每一类垃圾都标注风险等级，由用户手动勾选确认后执行清理，降低误删风险。</p>\n</blockquote>\n<h4 id=\"%E7%A4%BE%E4%BA%A4%E8%BD%AF%E4%BB%B6%E7%BC%93%E5%AD%98%E4%B8%93%E6%B8%85\" style=\"\">社交软件缓存专清</h4>\n<p style=\"\">专门针对国内常用桌面软件缓存做识别：微信、QQ、钉钉、飞书等。可以分类查看图片缓存、文件缓存，预览占用空间，按需清理，避免聊天记录被误删。</p>\n<h4 id=\"%E5%A4%A7%E6%96%87%E4%BB%B6%E6%B8%85%E7%90%86\" style=\"\">大文件清理</h4>\n<p style=\"\">全盘扫描磁盘中体积庞大的文件，标记风险提示，支持复制文件路径，方便用户确认文件用途，找出占用大量空间的安装包、压缩包、视频、AI 模型文件等，避免盲目删除系统关键文件。</p>\n<h4 id=\"ai-%E6%A8%A1%E5%9E%8B%E7%A9%BA%E9%97%B4%E8%AF%86%E5%88%AB\" style=\"\">AI 模型空间识别</h4>\n<p style=\"\">这是该工具比较有特色的功能。针对本地部署大模型场景，专门识别硬盘中体积庞大的 AI 权重模型文件。很多本地大模型动辄数 GB 到十几 GB，容易悄悄占满 C 盘，该模块可以集中列出模型文件，交由用户自主决定是否删除或迁移。</p>\n<h4 id=\"%E5%8D%B8%E8%BD%BD%E6%AE%8B%E7%95%99%E6%89%AB%E6%8F%8F\" style=\"\">卸载残留扫描</h4>\n<p style=\"\">软件卸载之后，经常会遗留配置文件夹、日志文件。该模块扫描常见残留路径，给出置信度提示，识别应用卸载后遗留的文件目录，清理残余垃圾。</p>\n<h3 id=\"2.-%E7%98%A6%E8%BA%AB%E7%B1%BB%E6%A8%A1%E5%9D%97\" style=\"\">2. 瘦身类模块</h3>\n<h4 id=\"%E7%B3%BB%E7%BB%9F%E7%98%A6%E8%BA%AB\" style=\"\">系统瘦身</h4>\n<p style=\"\">读取 Windows 可选系统组件，展示各项组件占用空间，每一项操作附带明确安全警告。支持处理异常膨胀的 Windows 搜索索引数据库，重建索引释放空间，规避直接删除系统文件带来的系统故障风险。</p>\n<h4 id=\"%E6%97%A7%E9%A9%B1%E5%8A%A8%E6%B8%85%E7%90%86\" style=\"\">旧驱动清理</h4>\n<p style=\"\">扫描系统内不再使用的第三方驱动安装包，会严格保护当前正在使用的驱动，不会误删正在工作的硬件驱动。支持驱动包备份与恢复，清理旧驱动备份文件释放系统盘空间。</p>\n<h4 id=\"%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86\" style=\"\">注册表清理</h4>\n<p style=\"\">检索注册表内孤立、失效的冗余项，执行清理前强制支持注册表备份。如果清理后出现异常，可直接恢复备份，规避注册表误改引发系统异常的风险。</p>\n<h3 id=\"3.-%E6%8E%92%E6%9F%A5%E7%B1%BB%E6%A8%A1%E5%9D%97\" style=\"\">3. 排查类模块</h3>\n<h4 id=\"%E7%A3%81%E7%9B%98%E5%8F%98%E5%8C%96%E5%88%86%E6%9E%90\" style=\"\">磁盘变化分析</h4>\n<p style=\"\">跟踪磁盘空间占用变化，帮助定位是什么文件、什么目录在持续吃掉磁盘空间，适合排查 C 盘莫名空间减少的问题。</p>\n<h4 id=\"%E5%A4%A7%E7%9B%AE%E5%BD%95%E5%88%86%E6%9E%90\" style=\"\">大目录分析</h4>\n<p style=\"\">统计各个文件夹占用空间，可视化定位磁盘空间大户，快速找到占用空间巨大的文件夹。</p>\n<h4 id=\"%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%B8%85%E7%90%86\" style=\"\">右键菜单清理</h4>\n<p style=\"\">管理 Windows 右键上下文菜单，清理大量软件卸载之后遗留的无效右键菜单项，支持白名单机制，保护需要保留的菜单选项，修复菜单冗余混乱问题。</p>\n<h4 id=\"%E5%A4%96%E5%A3%B3%E5%9B%BE%E6%A0%87%E7%AE%A1%E7%90%86\" style=\"\">外壳图标管理</h4>\n<p style=\"\">管理系统外壳图标缓存，修复图标异常、图标显示错乱的问题。</p>\n<h3 id=\"%E9%99%84%E5%8A%A0%EF%BC%9Aai-%E5%8A%A9%E6%89%8B%E8%83%BD%E5%8A%9B\" style=\"\">附加：AI 助手能力</h3>\n<p style=\"\">软件内置可选 AI 助手功能，该功能<strong>不会内置大模型服务</strong>，需要用户自行配置 API Key（如 DeepSeek 等）才能启用。 AI 助手会读取当前模块扫描得到的本地数据，结合上下文给出分析建议，辅助用户判断哪些文件可以清理，所有删除操作权限依旧保留在垃圾清理模块内，AI 不能直接执行删除，保障本地安全。</p>\n<h2 id=\"%E5%AE%89%E5%85%A8%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5\" style=\"\">安全设计理念</h2>\n<p style=\"\">LightC 非常重视系统安全，这也是和很多清理工具最大的区别：</p>\n<ol>\n <li>\n  <p style=\"\"><strong>无一键全量清理</strong>：不会默认勾选全部项目强制清理，所有删除行为必须用户手动确认。</p>\n </li>\n <li>\n  <p style=\"\"><strong>风险分级提示</strong>：每一个可清理项都附带风险说明，标注哪些删除后可自动重建，哪些删除存在潜在影响。</p>\n </li>\n <li>\n  <p style=\"\"><strong>备份优先策略</strong>：注册表、驱动清理等高危操作，强制提供备份能力，出现问题可以回滚。</p>\n </li>\n <li>\n  <p style=\"\"><strong>白名单保护</strong>：支持自定义路径白名单，受保护目录不会被扫描清理，可从扫描结果直接添加保护路径，避免误删个人重要文件。</p>\n </li>\n <li>\n  <p style=\"\"><strong>开源可审计</strong>：全部源代码托管在 GitHub，任何人都可以查看、审查底层逻辑，不用担心暗门行为。</p>\n </li>\n</ol>\n<blockquote>\n <p style=\"\">注意：即便工具做了大量安全防护，依然不建议盲目清理不了解的文件，操作系统相关功能前建议做好重要文件备份。</p>\n</blockquote>\n<h2 id=\"%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%8E%E4%B8%8D%E9%80%82%E7%94%A8%E5%9C%BA%E6%99%AF\" style=\"\">适用场景与不适用场景</h2>\n<h3 id=\"%E9%80%82%E5%90%88%E4%BD%BF%E7%94%A8\" style=\"\">适合使用</h3>\n<ul>\n <li>\n  <p style=\"\">Windows10 / Windows11 用户，C 盘空间持续爆满</p>\n </li>\n <li>\n  <p style=\"\">不想安装臃肿安全软件，只需要磁盘清理、系统维护能力</p>\n </li>\n <li>\n  <p style=\"\">经常安装卸载软件，产生大量缓存、卸载残留</p>\n </li>\n <li>\n  <p style=\"\">本地部署 AI 模型，模型文件占用大量磁盘</p>\n </li>\n <li>\n  <p style=\"\">追求开源透明，拒绝广告捆绑工具</p>\n </li>\n</ul>\n<h3 id=\"%E4%B8%8D%E9%80%82%E5%90%88%E4%BD%BF%E7%94%A8\" style=\"\">不适合使用</h3>\n<ul>\n <li>\n  <p style=\"\">Windows7 及更早 Windows 版本，不受支持</p>\n </li>\n <li>\n  <p style=\"\">需要全自动无脑一键清理的用户，该工具强调用户自主判断，需要一定基础认知</p>\n </li>\n <li>\n  <p style=\"\">想要杀毒、防火墙功能，该工具仅做磁盘维护，不具备杀毒防护能力</p>\n </li>\n</ul>\n<h2 id=\"%E6%80%BB%E7%BB%93\" style=\"\">总结</h2>\n<p style=\"\">LightC 是当下 Windows 生态中难得的个人开源系统维护工具，没有花里胡哨的营销，专注解决 C 盘空间不足的实际痛点。 它把 “决定权还给用户” 作为核心思路，不替用户做决定，只负责把磁盘现状清晰地展示出来，同时通过备份、风险提示、白名单机制尽可能降低操作风险。</p>\n<p style=\"\">如果你厌烦了各类广告满天飞的清理管家，又苦于 Windows 自带清理工具能力不足，LightC 值得尝试。</p>",
+      "author": "fufuの小窝",
+      "authorUrl": "https://blog.fufu520.cn/",
+      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
+      "publishedAt": "2026-11-23T13:36:55.000Z",
+      "source": "fufuの小窝",
+      "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
       "id": "c6303cddba21e914e441",
@@ -79,6 +105,19 @@
       "sourceUrl": "https://zyzu.top"
     },
     {
+      "id": "6b35c6bb2a52a502933b",
+      "title": "GPT Pro 账号被封了",
+      "link": "https://www.leorain.cn/article/the-gpt-pro-account-has-been-blocked",
+      "description": "快来点击阅读全文吧 ➜",
+      "content": "",
+      "author": "leorain",
+      "authorUrl": "https://www.leorain.cn",
+      "avatar": "https://www.leorain.cn/images/logo.png",
+      "publishedAt": "2026-11-23T06:48:14.000Z",
+      "source": "leorain",
+      "sourceUrl": "https://www.leorain.cn"
+    },
+    {
       "id": "29a029a1b46d626b3b54",
       "title": "2026 OSGJ 日志一：〈滚幕〉",
       "link": "https://xingwangzhe.fun/posts/osgj-devlog-1-credits/",
@@ -129,6 +168,19 @@
       "publishedAt": "2026-11-22T13:00:00.000Z",
       "source": "xf_blog",
       "sourceUrl": "https://xfchannel.top"
+    },
+    {
+      "id": "6a4542c22faaec909195",
+      "title": "初音拔河图",
+      "link": "https://blog.fufu520.cn/archives/01a202bf-f3fb-7109-abf2-9eb5171e56e1",
+      "description": "原图来自： https://x.com/mirute3939/status/2123967607741239782 横屏全图 十八张裁剪图",
+      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=%E5%88%9D%E9%9F%B3%E6%8B%94%E6%B2%B3%E5%9B%BE&amp;url=/archives/01a202bf-f3fb-7109-abf2-9eb5171e56e1\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<p style=\"\">原图来自：<a href=\"https://x.com/mirute3939/status/2123967607741239782\" target=\"_self\" rel=\"\">https://x.com/mirute3939/status/2123967607741239782</a></p>\n<h2 id=\"%E6%A8%AA%E5%B1%8F%E5%85%A8%E5%9B%BE\" style=\"\">横屏全图</h2>\n<figure data-content-type=\"image\" style=\"display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F%25E5%2588%259D%25E9%259F%25B3%25E6%258B%2594%25E6%25B2%25B3.png&amp;size=m\" alt=\"初音拔河.png\" width=\"7632px\">\n</figure>\n<h2 id=\"%E5%8D%81%E5%85%AB%E5%BC%A0%E8%A3%81%E5%89%AA%E5%9B%BE\" style=\"\">十八张裁剪图</h2>\n<div images=\"[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]\" groupsize=\"1\" layout=\"auto\" gap=\"0\" data-type=\"gallery\" data-group-size=\"1\" data-layout=\"auto\" data-gap=\"0\">\n <div style=\"display: grid; gap: 0px;\">\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F1BA561BC25D4915B137953F83FAE555C.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FAB6BAC53A1B769D1713519FBBF9202E0.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F3AD2B7E2BB3B8982E3662386C867D644.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F0F60C253D115944CEF133FA76B6A5325.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FA4CB894D61D5AFA0B2AA5E12C9BD2878.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FDDE253FA38D07D57740776F47079D69F.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F32CA7CEB6F686D2CD0F589B6975E19EF.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F2A72673121E7DA68831DC0634217677E.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FA178E1BBF83C72773AE22BFE057256F6.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F1948F04C9AB0E7AEA533AF737C28FDE7.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FDAE55E906D5A2FFFC428234AB0951DB9.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F8385F84F41612F80CB14C09506BAF5F3.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F478971FB7D4804B30DBAC769CFBBA5CC.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FC779D5362BDCBE6FD76CDF4048931C0B.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FEA4666A5F26D000A0FCB7F7616D53262.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FC2FC1AE0ED989D797286015579E1F84A.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.6789087093389297\" style=\"flex: 1.67891 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FB368165D4965510AD3F52A9A7DFF52F9.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n  <div data-type=\"gallery-group\" style=\"display: flex; flex-direction: row; justify-content: center; gap: 0px;\">\n   <div data-aspect-ratio=\"1.679245283018868\" style=\"flex: 1.67925 1 0%;\">\n    <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F0BC07686DAE9BDEB6BAC21CBDB07C884.jpg&amp;size=m\" alt=\"\" data-type=\"gallery-image\" style=\"width: 100%; height: 100%; margin: 0px; object-fit: cover;\">\n   </div>\n  </div>\n </div>\n</div>\n<p style=\"\"></p>",
+      "author": "fufuの小窝",
+      "authorUrl": "https://blog.fufu520.cn/",
+      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
+      "publishedAt": "2026-11-22T10:23:06.000Z",
+      "source": "fufuの小窝",
+      "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
       "id": "56ec4a407f5f10646600",
@@ -207,6 +259,19 @@
       "publishedAt": "2026-11-22T08:41:23.000Z",
       "source": "Somoe Home",
       "sourceUrl": "https://somoe.xyz"
+    },
+    {
+      "id": "9a02d796fdfd2d2cad86",
+      "title": "Windows托盘无线设备电量监视器",
+      "link": "https://blog.fufu520.cn/archives/01a2025c-cedf-771e-8d45-9dc137ad8c3b",
+      "description": "前言 Windows 原生系统一直有一个很让人头疼的短板：对无线外设的电量支持十分有限。蓝牙 TWS 耳机、无线键鼠、游戏手柄就算已经正常连接，右下角托盘也不会直接展示剩余电量；想要看电量，往往得装上罗技 G HUB、雷蛇雷云、各家厂商臃肿的配套软件，后台一堆进程占用资源，开机自启还拖慢系统。 今天...",
+      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=Windows%E6%89%98%E7%9B%98%E6%97%A0%E7%BA%BF%E8%AE%BE%E5%A4%87%E7%94%B5%E9%87%8F%E7%9B%91%E8%A7%86%E5%99%A8&amp;url=/archives/01a2025c-cedf-771e-8d45-9dc137ad8c3b\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<p style=\"\"></p>\n<figure data-content-type=\"image\" style=\"display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FWindows%25E6%2589%2598%25E7%259B%2598%25E6%2597%25A0%25E7%25BA%25BF%25E8%25AE%25BE%25E5%25A4%2587%25E7%2594%25B5%25E9%2587%258F%25E7%259B%2591%25E8%25A7%2586%25E5%2599%25A8-cover-MnbF.png&amp;size=m\" alt=\"Windows托盘无线设备电量监视器-cover-MnbF.png\" width=\"1200px\">\n</figure>\n<h3 id=\"%E5%89%8D%E8%A8%80\" style=\"\">前言</h3>\n<p style=\"\">Windows 原生系统一直有一个很让人头疼的短板：对无线外设的电量支持十分有限。蓝牙 TWS 耳机、无线键鼠、游戏手柄就算已经正常连接，右下角托盘也不会直接展示剩余电量；想要看电量，往往得装上罗技 G HUB、雷蛇雷云、各家厂商臃肿的配套软件，后台一堆进程占用资源，开机自启还拖慢系统。</p>\n<p style=\"\">今天分享这款 <strong>Wireless-Device-Battery-Monitor</strong> 就是专门解决这个痛点的轻量托盘工具。不需要安装繁杂的厂商套件，驻留在任务栏托盘自动扫描设备，统一查看键鼠、耳机、手柄电量，还自带低电量提醒。如果你桌面无线外设多、讨厌一堆厂商后台常驻，这个工具会非常合适。</p>\n<h2 id=\"%E6%A0%B8%E5%BF%83%E7%89%B9%E7%82%B9\" style=\"\">核心特点</h2>\n<ol>\n <li>\n  <p style=\"\"><strong>极致轻量</strong>：程序本体仅约 350KB，内存占用极低，后台静默运行，几乎不占用系统资源；支持便携版，也提供安装包，<strong>不需要管理员权限即可运行</strong>。</p>\n </li>\n <li>\n  <p style=\"\"><strong>原生托盘显示</strong>：电量图标直接驻留在 Win10/Win11 右下角托盘，点开即可看到所有已连接设备的百分比，解决 Windows 原生无法查看大部分无线外设电量的痛点。</p>\n </li>\n <li>\n  <p style=\"\"><strong>多协议兼容</strong>：同时支持蓝牙设备、2.4G 接收器（优联、Bolt、无线接收器），底层兼容 HeadsetControl 耳机协议。</p>\n </li>\n <li>\n  <p style=\"\"><strong>低电量提醒</strong>：可自定义阈值，电量过低时弹窗通知，避免使用中途断电。</p>\n </li>\n <li>\n  <p style=\"\"><strong>多设备同时识别</strong>：鼠标、键盘、耳机、手柄同时接入时，全部独立展示电量，支持手动隐藏不需要显示的设备。</p>\n </li>\n <li>\n  <p style=\"\"><strong>无强制后台服务</strong>：纯托盘应用，退出即停止，不会常驻系统服务；也可以设置开机自启。</p>\n </li>\n <li>\n  <p style=\"\"><strong>兼容共存</strong>：可以和厂商官方驱动同时运行，不会发生冲突。</p>\n </li>\n</ol>\n<figure data-indent=\"24\" data-content-type=\"image\" style=\"align-items: center; display: flex; flex-direction: column; margin-left: 24px !important; max-width: calc(100% - 24px) !important;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fcdn.jsdmirror.com%2Fgh%2Fkrisgfx9%2FWireless-Device-Battery-Monitor%40main%2Fdocs%2Fscreenshot.png&amp;size=m\" width=\"500px\">\n</figure>\n<p data-indent=\"24\" style=\"margin-left: 24px !important; max-width: calc(100% - 24px) !important;\"></p>\n<h2 id=\"%E9%83%A8%E7%BD%B2-%26-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F\" style=\"\">部署 &amp; 使用方式</h2>\n<ul>\n <li>\n  <p style=\"\"><strong>项目地址</strong>：<a href=\"https://github.com/krisgfx9/Wireless-Device-Battery-Monitor\">https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</a></p>\n </li>\n <li>\n  <p style=\"\"><strong>安装版</strong>：进入 <a href=\"https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/releases\" target=\"_self\" rel=\"\">Releases</a> 下载 <code>WirelessBattery-Setup.exe</code>，一路下一步安装，自动添加开机自启选项。</p>\n </li>\n <li>\n  <p style=\"\"><strong>便携版</strong>：下载 zip 包解压，直接运行 <code>WirelessBattery.exe</code>，适合放在 U 盘使用，不写入注册表。</p>\n </li>\n <li>\n  <p style=\"\"><strong>命令行参数</strong>：高级用户支持命令行启动参数，用于自定义刷新频率、日志输出等。</p>\n </li>\n <li>\n  <p style=\"\"><strong>使用流程</strong>：打开软件 → 自动扫描已连接无线外设 → 托盘图标点击查看电量 → 右键打开设置，配置提醒、隐藏设备、刷新间隔。</p>\n </li>\n</ul>\n<blockquote>\n <p style=\"\">注意：部分设备需要使用原厂 2.4G 接收器才能读取电量；仅蓝牙连接、没有厂商专属协议的设备，能否读取取决于 Windows 本身是否开放电量接口。</p>\n</blockquote>\n<h2 id=\"%E9%80%82%E5%90%88%E4%BA%BA%E7%BE%A4\" style=\"\">适合人群</h2>\n<p style=\"\">经常使用多品牌无线外设、不想安装各大厂商臃肿驱动套件、希望在任务栏一键查看键鼠耳机手柄电量的 Windows 用户；游戏玩家、桌面折腾党非常适合。</p>\n<h2 id=\"%E6%94%AF%E6%8C%81%E8%AE%BE%E5%A4%87%E6%80%BB%E8%A1%A8\" style=\"\">支持设备总表</h2>\n<blockquote>\n <p style=\"\">说明：部分设备区分【蓝牙模式 / 2.4G 接收器模式】；标注 “接收器” 代表必须使用原厂无线接收器才能读取电量，纯蓝牙连接可能识别失败；通用蓝牙设备只要 Windows 可读取电量，理论上都支持。</p>\n</blockquote>\n<p style=\"\">表格</p>\n<div class=\"halo-table-wrapper\" data-table-layout=\"auto\" style=\"box-sizing: border-box; overflow: auto hidden; width: 100%; max-width: 100%; min-width: 0px;\">\n <table data-table-layout=\"auto\" style=\"display: table; width: 100%; min-width: 100%; table-layout: auto;\">\n  <tbody>\n   <tr>\n    <th colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">品牌</p>\n    </th>\n    <th colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">支持设备型号</p>\n    </th>\n    <th colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">读取方式</p>\n    </th>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Logitech（罗技）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Unifying 优联、Bolt 系列鼠标 / 键盘；G Pro X Superlight、G305、G502 X、G703、G903、MX Master、MX Keys 等</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">优联 / Bolt 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Razer（雷蛇）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">DeathAdder V3 Pro、Basilisk V3 Pro、Viper V2 Pro、Barracuda X、BlackShark V2 HyperSpeed 等无线键鼠耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">雷蛇 2.4G 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">SteelSeries（赛睿）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Arctis 系列耳机、Aerox 无线鼠标、无线键盘</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">原厂接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Corsair（海盗船）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Katar Elite、Sabre 无线、K65 无线键盘、HS 系列耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">原厂接收器</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">HyperX</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Cloud Flight、Cloud Stinger 无线耳机、无线鼠标</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Glorious</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Model D 2 Pro、Model O 2 Pro 等无线鼠标</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">2.4G 接收器</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Astro</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">A50 Gen4、A50 Gen3、A20 无线耳机底座版</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">底座 / USB 接收器</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Samsung（三星）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Galaxy Buds、Buds Live、Buds Pro、Buds2、Buds2 Pro、Buds FE</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">蓝牙（左右耳 + 充电仓电量）</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Sony</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">DualSense、DualSense Edge、INZONE H9/H7 耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">手柄蓝牙 / USB 适配器、耳机蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">JBL</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Quantum 系列无线耳机（Quantum 910、800、650 等）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">2.4G 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Jabra</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Jabra 全系无线耳机、会议耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">USB 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Xbox</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Xbox 无线手柄（Xbox Series / Xbox One）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Xbox 无线适配器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Gamesir（盖世小鸡）</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">无线手柄、无线耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">2.4G 接收器、蓝牙</p>\n    </td>\n   </tr>\n   <tr>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">通用蓝牙设备</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">Windows 系统原生可以读取电量的蓝牙键鼠、耳机</p>\n    </td>\n    <td colspan=\"1\" rowspan=\"1\">\n     <p style=\"\">蓝牙</p>\n    </td>\n   </tr>\n  </tbody>\n </table>\n</div>\n<p style=\"\"></p>\n<h2 id=\"%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E\" style=\"\">补充说明</h2>\n<ol>\n <li>\n  <p style=\"\">项目持续更新，新设备支持会不断合并进主分支，遇到识别失败可以去 GitHub Issue 提交设备 VID/PID 反馈。</p>\n </li>\n <li>\n  <p style=\"\">部分 TWS 耳机只能读取总电量，无法分开读取左右耳 + 充电仓，由设备固件协议限制，不是软件问题。</p>\n </li>\n <li>\n  <p style=\"\">和同类工具对比：相比 TrayS、单独的蓝牙电量工具，它优势是<strong>统一兼容 2.4G 游戏外设 + 蓝牙耳机手柄</strong>，不用分开多个工具。</p>\n </li>\n</ol>\n<p style=\"\"></p>",
+      "author": "fufuの小窝",
+      "authorUrl": "https://blog.fufu520.cn/",
+      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
+      "publishedAt": "2026-11-22T08:28:00.000Z",
+      "source": "fufuの小窝",
+      "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
       "id": "f0f3fa42ecf18e7e165d",
@@ -469,6 +534,19 @@
       "sourceUrl": "https://wang618.cn/"
     },
     {
+      "id": "e8f88d088280c1533599",
+      "title": "fufuの小窝恢复访问！",
+      "link": "https://blog.fufu520.cn/archives/01a1feca-fcdb-75dc-a9b0-1e042fc7d60c",
+      "description": "fufuの小窝 恢复访问啦！ 前段时间学业繁忙，服务器暂停了十几天没能打理。 博客现已恢复正常，很抱歉让大家久等。 因长时间离线，部分友链被对方清理移除，后续我会慢慢核对补回，也欢迎各位大佬重新交换友链。 送上一张初音拔河图：",
+      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=fufu%E3%81%AE%E5%B0%8F%E7%AA%9D%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE%EF%BC%81&amp;url=/archives/01a1feca-fcdb-75dc-a9b0-1e042fc7d60c\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<p style=\"\">fufuの小窝 恢复访问啦！</p>\n<p style=\"\">前段时间学业繁忙，服务器暂停了十几天没能打理。</p>\n<p style=\"\">博客现已恢复正常，很抱歉让大家久等。</p>\n<p style=\"\"><code>因长时间离线，部分友链被对方清理移除，后续我会慢慢核对补回，也欢迎各位大佬重新交换友链。</code></p>\n<p style=\"\">送上一张初音拔河图：</p>\n<figure data-content-type=\"image\" style=\"display: flex; flex-direction: column;\">\n <img src=\"https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2F%25E5%2588%259D%25E9%259F%25B3%25E6%258B%2594%25E6%25B2%25B3.png&amp;size=m\" alt=\"初音拔河.png\" width=\"7632px\">\n</figure>\n<p style=\"\"></p>",
+      "author": "fufuの小窝",
+      "authorUrl": "https://blog.fufu520.cn/",
+      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
+      "publishedAt": "2026-11-21T15:55:07.000Z",
+      "source": "fufuの小窝",
+      "sourceUrl": "https://blog.fufu520.cn/"
+    },
+    {
       "id": "92626029e3ce56356c25",
       "title": "MetingAPI应用｜定制闹钟",
       "link": "https://luq-blog.xyz/posts/2026-11-21-custom-alarm/",
@@ -558,6 +636,19 @@
       "publishedAt": "2026-11-21T07:15:47.000Z",
       "source": "目的地-Destination",
       "sourceUrl": "https://chrison.cn"
+    },
+    {
+      "id": "eb9830e4206eeda37b52",
+      "title": "再见了豫FD186xx",
+      "link": "https://www.leorain.cn/article/non-local-residents-can-apply-for-a-new-energy-small-car-license-plate-in-hangzhou",
+      "description": "快来点击阅读全文吧 ➜",
+      "content": "",
+      "author": "leorain",
+      "authorUrl": "https://www.leorain.cn",
+      "avatar": "https://www.leorain.cn/images/logo.png",
+      "publishedAt": "2026-11-21T03:29:03.000Z",
+      "source": "leorain",
+      "sourceUrl": "https://www.leorain.cn"
     },
     {
       "id": "a92e0da76504b62a3049",
@@ -1444,19 +1535,6 @@
       "sourceUrl": "https://www.imcry.vip"
     },
     {
-      "id": "39bbce376f0b8aa75c3e",
-      "title": "上海国际乐器展 12 2026 VI  观众",
-      "link": "https://vind.ink/photos/musicchina-expo-12.html",
-      "description": "上海国际乐器展，从 2023 年开始，我就留下了照片，可以点击这里搜索看到之前的照片分享。本篇是今年上海乐器展的最后一篇，拍摄了一些观众人物。上一篇是提琴，本篇第一张也是拍摄于提琴展馆。这第一张...",
-      "content": "上海国际乐器展，从 2023 年开始，我就留下了照片，可以点击这里搜索看到之前的照片分享。本篇是今年上海乐器展的最后一篇，拍摄了一些观众人物。上一篇是提琴，本篇第一张也是拍摄于提琴展馆。这第一张...",
-      "author": "风·墨",
-      "authorUrl": "https://Vind.ink",
-      "avatar": "https://Vind.ink/icon.png",
-      "publishedAt": "2026-11-11T10:10:00.000Z",
-      "source": "风·墨",
-      "sourceUrl": "https://Vind.ink"
-    },
-    {
       "id": "ff072960c604aa19891a",
       "title": "两天的大风让三亚入了秋",
       "link": "https://www.imcry.vip/post/2026-11-11-1553/",
@@ -1587,8 +1665,8 @@
       "sourceUrl": "https://blog.liuhangyv.top"
     }
   ],
-  "generatedAt": "2026-11-24T00:21:07.596Z",
-  "rangeStart": "2026-11-09T00:21:07.596Z",
-  "rangeEnd": "2026-11-24T00:21:07.596Z",
-  "total": 122
+  "generatedAt": "2026-11-24T03:42:51.109Z",
+  "rangeStart": "2026-11-09T03:42:51.109Z",
+  "rangeEnd": "2026-11-24T03:42:51.109Z",
+  "total": 128
 }
