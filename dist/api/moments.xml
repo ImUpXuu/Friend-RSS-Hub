@@ -4,7 +4,29 @@
     <title>Friend RSS Hub</title>
     <link>https://friend.upxuu.com/</link>
     <description>Friends' recent blog updates</description>
-    <lastBuildDate>Wed, 25 Nov 2026 01:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:38:35 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">35a412d5a5d3acf9b0c5</guid>
+      <title>刷 Kali NetHunter 之前：先判断你的手机能不能刷、该刷哪一套</title>
+      <link>https://bk.zhaozhiqiang.pw/1798.html</link>
+      <description>动手刷机前先花十分钟判断：处理器平台有没有对应内核镜像、A/B 分区怎么查、BL 能否解锁，以及 NetHunter 完整版、Lite、Rootless 和 KaliDroid 到底该选哪个。 刷 Kali NetHunter 之前：先判断你的手机能不能刷、该刷哪一套 最先出现在 星宇安全实验室 。</description>
+      <content:encoded><![CDATA[<p>动手刷机前先花十分钟判断：处理器平台有没有对应内核镜像、A/B 分区怎么查、BL 能否解锁，以及 NetHunter 完整版、Lite、Rootless 和 KaliDroid 到底该选哪个。</p>
+<p><a href="https://bk.zhaozhiqiang.pw/1798.html">刷 Kali NetHunter 之前：先判断你的手机能不能刷、该刷哪一套</a>最先出现在<a href="https://bk.zhaozhiqiang.pw">星宇安全实验室</a>。</p>
+]]></content:encoded>
+      <author>星宇安全实验室</author>
+      <pubDate>Wed, 25 Nov 2026 12:50:17 GMT</pubDate>
+      <source url="https://bk.zhaozhiqiang.pw/">星宇安全实验室</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">fbd5e5bbd1d90681d160</guid>
+      <title>一个随时启动的日志收集工具</title>
+      <link>https://imba97.com/post/821</link>
+      <description>日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于...</description>
+      <content:encoded><![CDATA[日志埋点上报一直存在一个矛盾，一边是 99% 的日志上报毫无作用，一边又害怕埋点不够细致，真出现问题无法复现完整链路 这个工具一定程度上可以缓解这个问题，把重要的日志如支付、订单留给像 SLS、观测云这种付费厂商，繁杂而全面的日志对接则交给 flash-debug flash-debug 是一个基于 Node.js 环]]></content:encoded>
+      <author>imba久期 BLOG</author>
+      <pubDate>Wed, 25 Nov 2026 12:01:57 GMT</pubDate>
+      <source url="https://imba97.com">imba久期 BLOG</source>
+    </item>
     <item>
       <guid isPermaLink="false">59d9a40a7257513f18fa</guid>
       <title>超级月亮</title>
@@ -24,16 +46,6 @@
       <author>Wangxinyang</author>
       <pubDate>Tue, 24 Nov 2026 16:25:00 GMT</pubDate>
       <source url="https://wangxinyang.top">Wangxinyang</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">4d69ecfbd6765c0c90ee</guid>
-      <title>最近主题和插件的更新</title>
-      <link>https://vind.ink/AI-tools/1093.html</link>
-      <description>最近又对主题和插件进行了一些更新，今天下午又更新了一次。先前主要是下面几点，是截止到昨天晚上的：看群友所说，还有看见 Hary 也给博客添加了“评论提交60秒内可修改” ，我就让 Workbud...</description>
-      <content:encoded><![CDATA[最近又对主题和插件进行了一些更新，今天下午又更新了一次。先前主要是下面几点，是截止到昨天晚上的：看群友所说，还有看见 Hary 也给博客添加了“评论提交60秒内可修改” ，我就让 Workbud...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Tue, 24 Nov 2026 08:12:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
     </item>
     <item>
       <guid isPermaLink="false">8dd15eee47a812102bc1</guid>
@@ -59,9 +71,9 @@
       <source url="https://xfchannel.top">xf_blog</source>
     </item>
     <item>
-      <guid isPermaLink="false">5899f01e84d63f2de52c</guid>
+      <guid isPermaLink="false">ee23ad314c3e15d65b27</guid>
       <title>分类页 2.0：把文章分类和标签关系画成图</title>
-      <link>https://www.9ll.uk/posts/blog/categorygraph/</link>
+      <link>https://www.0dm.cn/posts/blog/categorygraph/</link>
       <description>分类页不再是一排分类卡片：玫瑰图看文章怎么分，标签关系图看标签怎么连。47 个节点、74 条连线，点一下就能进归档；这篇写清楚页面怎么用、数据怎么筛，以及为了让标签不压在一起踩的坑。</description>
       <content:encoded><![CDATA[分类页不再是一排分类卡片：玫瑰图看文章怎么分，标签关系图看标签怎么连。47 个节点、74 条连线，点一下就能进归档；这篇写清楚页面怎么用、数据怎么筛，以及为了让标签不压在一起踩的坑。]]></content:encoded>
       <author>折腾进行中</author>
@@ -69,9 +81,9 @@
       <source url="https://www.9ll.uk/">折腾进行中</source>
     </item>
     <item>
-      <guid isPermaLink="false">c8dd68ce6cbd24684445</guid>
+      <guid isPermaLink="false">e711d900f6737a073611</guid>
       <title>把 Apple 液态玻璃搬到顶栏：磨砂之上还有一层折射</title>
-      <link>https://www.9ll.uk/posts/blog/liquidglassnavbar/</link>
+      <link>https://www.0dm.cn/posts/blog/liquidglassnavbar/</link>
       <description>按 Muyu 那套方案把顶栏重做成三座岛：backdrop-filter 先磨砂，filter 再把磨砂结果按噪声揉一遍，两层全挂在 ::before，文字始终锐利。中途试过把菜单岛外壳整个去掉、只留文字浮在壁纸上，在清晰壁纸下糊成一团，等于白折腾——最后还是老老实实照原样做，只是把底色、模糊、高光...</description>
       <content:encoded><![CDATA[按 Muyu 那套方案把顶栏重做成三座岛：backdrop-filter 先磨砂，filter 再把磨砂结果按噪声揉一遍，两层全挂在 ::before，文字始终锐利。中途试过把菜单岛外壳整个去掉、只留文字浮在壁纸上，在清晰壁纸下糊成一团，等于白折腾——最后还是老老实实照原样做，只是把底色、模糊、高光按自己的壁纸调了一档。页脚注入，上游主题一个文件没碰。]]></content:encoded>
       <author>折腾进行中</author>
@@ -79,9 +91,9 @@
       <source url="https://www.9ll.uk/">折腾进行中</source>
     </item>
     <item>
-      <guid isPermaLink="false">7779a4854e6cb5206c9d</guid>
+      <guid isPermaLink="false">a7a6e7b8b6f7cc30a7bc</guid>
       <title>茶室新添一台点歌台：这次真的可以一起听歌了</title>
-      <link>https://www.9ll.uk/posts/blog/tearoomjukebox/</link>
+      <link>https://www.0dm.cn/posts/blog/tearoomjukebox/</link>
       <description>茶室右栏多了个点歌台：全网搜歌、导入歌单、排队轮播、投票切歌，所有人按同一份时间轴播放。这篇写清楚它怎么用、为什么不是简单加个播放器，以及目前还差些什么。</description>
       <content:encoded><![CDATA[茶室右栏多了个点歌台：全网搜歌、导入歌单、排队轮播、投票切歌，所有人按同一份时间轴播放。这篇写清楚它怎么用、为什么不是简单加个播放器，以及目前还差些什么。]]></content:encoded>
       <author>折腾进行中</author>
@@ -89,9 +101,9 @@
       <source url="https://www.9ll.uk/">折腾进行中</source>
     </item>
     <item>
-      <guid isPermaLink="false">dc9e56e467b9eeb47d55</guid>
+      <guid isPermaLink="false">d2507ae85539b1b019b7</guid>
       <title>茶室为什么那么慢：把桥接从 Cloudflare 搬回 NAS 的一次排查</title>
-      <link>https://www.9ll.uk/posts/blog/tearoomspeedup/</link>
+      <link>https://www.0dm.cn/posts/blog/tearoomspeedup/</link>
       <description>上一篇把茶室搭起来，这一篇讲它为什么慢。页面秒开、聊天转圈，用 curl 把「慢」拆成三段数据，才发现每条聊天请求都在出国再回国。从长轮询改造到 Docker 同网固定 IP，把桥接整个搬回 NAS，单次请求从 2~5 秒降到 1~2 秒。附排查方法、架构图和三个新坑。</description>
       <content:encoded><![CDATA[上一篇把茶室搭起来，这一篇讲它为什么慢。页面秒开、聊天转圈，用 curl 把「慢」拆成三段数据，才发现每条聊天请求都在出国再回国。从长轮询改造到 Docker 同网固定 IP，把桥接整个搬回 NAS，单次请求从 2~5 秒降到 1~2 秒。附排查方法、架构图和三个新坑。]]></content:encoded>
       <author>折腾进行中</author>
@@ -99,9 +111,9 @@
       <source url="https://www.9ll.uk/">折腾进行中</source>
     </item>
     <item>
-      <guid isPermaLink="false">4b57520afd88cc73d773</guid>
+      <guid isPermaLink="false">4a93ae1b2c6c5d550c71</guid>
       <title>凌晨两点，我给博客开了间茶室：Matrix 联邦接入的全流程与十几个坑</title>
-      <link>https://www.9ll.uk/posts/blog/tingyutearoom/</link>
+      <link>https://www.0dm.cn/posts/blog/tingyutearoom/</link>
       <description>起因只是看到别人页面上有个聊天室，想进去说句话。结果一路拆到 Matrix 联邦、自建 homeserver、Cloudflare Worker 桥接，最后长成七千行前端加一千五百行服务端的一间茶室。这篇按当时的顺序写清楚：每一步要做什么、为什么这么做、会在哪里卡住。</description>
       <content:encoded><![CDATA[起因只是看到别人页面上有个聊天室，想进去说句话。结果一路拆到 Matrix 联邦、自建 homeserver、Cloudflare Worker 桥接，最后长成七千行前端加一千五百行服务端的一间茶室。这篇按当时的顺序写清楚：每一步要做什么、为什么这么做、会在哪里卡住。]]></content:encoded>
       <author>折腾进行中</author>
@@ -115,7 +127,7 @@
       <description>项目简介 LightC 是一款面向 Windows 平台的 免费开源、轻量高性能 的 C 盘清理与系统维护工具，由个人开发者独立维护，基于 Tauri + Rust + React + TypeScript 技术栈开发，支持 Windows10 及以上操作系统。 不同于市面上大量闭源、捆绑广告、强制...</description>
       <content:encoded><![CDATA[<img src="https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=LightC%EF%BC%9A%E5%BC%80%E6%BA%90%E8%BD%BB%E9%87%8F%20Windows%20C%20%E7%9B%98%E6%B8%85%E7%90%86%E4%B8%8E%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4%E5%B7%A5%E5%85%B7&amp;url=/archives/01a20899-c40b-70bb-a3f5-af5e56d2e246" width="1" height="1" alt="" style="opacity:0;">
 <figure data-content-type="image" style="align-items: center; display: flex; flex-direction: column;">
- <img src="https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FLightC%25EF%25BC%259A%25E5%25BC%2580%25E6%25BA%2590%25E8%25BD%25BB%25E9%2587%258F-Windows-C-%25E7%259B%2598%25E6%25B8%2585%25E7%2590%2586%25E4%25B8%258E%25E7%25B3%25BB%25E7%25BB%259F%25E7%25BB%25B4%25E6%258A%25A4%25E5%25B7%25A5%25E5%2585%25B7-cover.png&amp;size=m" alt="LightC：开源轻量-Windows-C-盘清理与系统维护工具-cover.png" width="1200px">
+ <img src="https://blog.fufu520.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=%2Fupload%2FLightC%25EF%25BC%259A%25E5%25BC%2580%25E6%25BA%2590%25E8%25BD%25BB%25E9%2587%258F-Windows-C-%25E7%259B%2598%25E6%25B8%2585%25E7%2590%2586%25E4%25B8%258E%25E7%25B3%25BB%25E7%25BB%259F%25E7%25BB%25B4%25E6%258A%25A4%25E5%25B7%25A5%25E5%2585%25B7-cover-jjnn.png&amp;size=m" alt="LightC：开源轻量-Windows-C-盘清理与系统维护工具-cover-jjnn.png" width="1200px">
 </figure>
 <h2 id="%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B" style="">项目简介</h2>
 <p style="">LightC 是一款面向 Windows 平台的<strong>免费开源、轻量高性能</strong>的 C 盘清理与系统维护工具，由个人开发者独立维护，基于 Tauri + Rust + React + TypeScript 技术栈开发，支持 Windows10 及以上操作系统。</p>
@@ -236,16 +248,6 @@
       <author>fufuの小窝</author>
       <pubDate>Mon, 23 Nov 2026 13:36:55 GMT</pubDate>
       <source url="https://blog.fufu520.cn/">fufuの小窝</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">c6303cddba21e914e441</guid>
-      <title>豆包工作 VS Workbuddy 图片分类排序对比</title>
-      <link>https://vind.ink/AI-tools/1082.html</link>
-      <description>我前几天发布了2篇图文：《豆包工作 VS Workbuddy 照片处理对比》和《三款 AI Agent 实测对比：豆包、Trae、WorkBuddy，谁更适合日常工作？》，之前就说过还会有多图分...</description>
-      <content:encoded><![CDATA[我前几天发布了2篇图文：《豆包工作 VS Workbuddy 照片处理对比》和《三款 AI Agent 实测对比：豆包、Trae、WorkBuddy，谁更适合日常工作？》，之前就说过还会有多图分...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Mon, 23 Nov 2026 12:40:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
     </item>
     <item>
       <guid isPermaLink="false">e26dbe941c483f1c45ed</guid>
@@ -1297,16 +1299,6 @@
       <source url="https://bk.zhaozhiqiang.pw/">星宇安全实验室</source>
     </item>
     <item>
-      <guid isPermaLink="false">3ca09a5f988e201c5749</guid>
-      <title>独立黑白相册已关闭</title>
-      <link>https://vind.ink/Status/1071.html</link>
-      <description>折腾了2个月，我的独立黑白相册 https://mono.vind.ink 还是关闭了。​原因就是压根儿没人看，更没人点评。我经常查看后台统计，来访的 IP 几乎全是日本和美国的爬虫，跟单机没啥...</description>
-      <content:encoded><![CDATA[折腾了2个月，我的独立黑白相册 https://mono.vind.ink 还是关闭了。​原因就是压根儿没人看，更没人点评。我经常查看后台统计，来访的 IP 几乎全是日本和美国的爬虫，跟单机没啥...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Fri, 20 Nov 2026 09:25:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
-    </item>
-    <item>
       <guid isPermaLink="false">946ae30fbb0c32fac7ff</guid>
       <title>Orama的再应用，替换Pagefind</title>
       <link>https://xingwangzhe.fun/posts/orama-again-replace-pagefind/</link>
@@ -1636,16 +1628,6 @@
       <source url="https://n22b64.cn">拾光纪</source>
     </item>
     <item>
-      <guid isPermaLink="false">e19e1802f53d2bc62bef</guid>
-      <title>关于2篇AI Agent 对比的声明</title>
-      <link>https://vind.ink/AI-tools/2-AI-Agent.html</link>
-      <description>我这两天发布了2篇图文：《豆包工作 VS Workbuddy 照片处理对比》和《豆包工作 VS Workbuddy 照片处理对比》，看来是需要进行一下声明：这两篇都是AI写的。其实我在这两篇文章...</description>
-      <content:encoded><![CDATA[我这两天发布了2篇图文：《豆包工作 VS Workbuddy 照片处理对比》和《豆包工作 VS Workbuddy 照片处理对比》，看来是需要进行一下声明：这两篇都是AI写的。其实我在这两篇文章...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Wed, 18 Nov 2026 14:12:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
-    </item>
-    <item>
       <guid isPermaLink="false">e5e3282870a9898f89cf</guid>
       <title>EdgeOne 尾斜杠路由的占位符配置</title>
       <link>https://xingwangzhe.fun/posts/edgeone-trailing-slash-routing/</link>
@@ -1654,16 +1636,6 @@
       <author>姓王者的博客</author>
       <pubDate>Wed, 18 Nov 2026 13:30:00 GMT</pubDate>
       <source url="https://xingwangzhe.fun/">姓王者的博客</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">3100c0936975159259cf</guid>
-      <title>豆包工作 VS Workbuddy 照片处理对比</title>
-      <link>https://vind.ink/AI-tools/1051.html</link>
-      <description>接上次《三款 AI Agent 实测对比：豆包、Trae、WorkBuddy，谁更适合日常工作？ 》，因为我的使用中还有大量照片处理。因为Workbuddy最近也大幅度提升了图像处理能力，所以本...</description>
-      <content:encoded><![CDATA[接上次《三款 AI Agent 实测对比：豆包、Trae、WorkBuddy，谁更适合日常工作？ 》，因为我的使用中还有大量照片处理。因为Workbuddy最近也大幅度提升了图像处理能力，所以本...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Wed, 18 Nov 2026 09:37:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
     </item>
     <item>
       <guid isPermaLink="false">0b1f7a8affb8e8674f05</guid>
@@ -1777,16 +1749,6 @@
       <source url="https://reimu0721.xyz/">红白Reimu的小窝</source>
     </item>
     <item>
-      <guid isPermaLink="false">81410b3b5533da38c56e</guid>
-      <title>三款 AI Agent 实测对比：豆包、Trae、WorkBuddy，谁更适合日常工作？</title>
-      <link>https://vind.ink/AI-tools/1040.html</link>
-      <description>本次测试由ChatGPT（网页版，免费）出题并评分。标签： 技术文档分析 · IT 运维诊断 · PHP 项目修复最近，我把豆包、Trae 和腾讯 WorkBuddy 放在一起做了一轮实际测试。...</description>
-      <content:encoded><![CDATA[本次测试由ChatGPT（网页版，免费）出题并评分。标签： 技术文档分析 · IT 运维诊断 · PHP 项目修复最近，我把豆包、Trae 和腾讯 WorkBuddy 放在一起做了一轮实际测试。...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Tue, 17 Nov 2026 05:51:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
-    </item>
-    <item>
       <guid isPermaLink="false">84a19fb368a7766bf851</guid>
       <title>关于园子整体版权的说明</title>
       <link>https://xiaoxi.ac.cn/post/202608219829</link>
@@ -1854,16 +1816,6 @@
       <author>红白Reimu的小窝</author>
       <pubDate>Mon, 16 Nov 2026 10:29:44 GMT</pubDate>
       <source url="https://reimu0721.xyz/">红白Reimu的小窝</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">1e134f63fd5f00bf83e3</guid>
-      <title>近期情况</title>
-      <link>https://vind.ink/Status/1030.html</link>
-      <description>这个最近，指的是大约从11月初开始，大概一直持续到 12 月上旬。关于照片我之前拍的照片，能发的都发过了，不能发的当然也不会发布🤭乐器展照片是10月底拍的，11月初就都处理完了，分批发布的。这半...</description>
-      <content:encoded><![CDATA[这个最近，指的是大约从11月初开始，大概一直持续到 12 月上旬。关于照片我之前拍的照片，能发的都发过了，不能发的当然也不会发布🤭乐器展照片是10月底拍的，11月初就都处理完了，分批发布的。这半...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Mon, 16 Nov 2026 04:05:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
     </item>
     <item>
       <guid isPermaLink="false">6f057d93169d4cfd8112</guid>
@@ -2064,16 +2016,6 @@
       <source url="https://bk.zhaozhiqiang.pw/">星宇安全实验室</source>
     </item>
     <item>
-      <guid isPermaLink="false">e8792bd3d2c0127df19d</guid>
-      <title>杂篇 12</title>
-      <link>https://vind.ink/photos/zapian12.html</link>
-      <description>在我博客，摄影杂篇的定义是一些数量少，比较零碎不能组成具体主题和系列的内容。本篇是第12杂篇，本来数量不足，还想再存几张发布。但是最近也没有新照片了，本月估计也没合适的新照片拍摄，所以就就这三张...</description>
-      <content:encoded><![CDATA[在我博客，摄影杂篇的定义是一些数量少，比较零碎不能组成具体主题和系列的内容。本篇是第12杂篇，本来数量不足，还想再存几张发布。但是最近也没有新照片了，本月估计也没合适的新照片拍摄，所以就就这三张...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Fri, 13 Nov 2026 06:03:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
-    </item>
-    <item>
       <guid isPermaLink="false">12e20b6b3e2b11895901</guid>
       <title>NetHunter 刷机：每一步该看什么</title>
       <link>https://bk.zhaozhiqiang.pw/1730.html</link>
@@ -2104,26 +2046,6 @@
       <author>Fiee&apos;s Blog</author>
       <pubDate>Thu, 12 Nov 2026 08:02:18 GMT</pubDate>
       <source url="https://www.aifiee.cn">Fiee&apos;s Blog</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">1a7b584434b1c054a546</guid>
-      <title>上海国际乐器展 13 琴音渐远</title>
-      <link>https://vind.ink/music/musicchina-expo-13.html</link>
-      <description>又逢十月上海国际乐器展，算下来这已是我第十五次赴约。走出展馆时风里带着深秋的凉意，心里的失落却比风更沉。我还清晰记得鼎盛时的模样：全馆满员仍不够用，室外要搭起连片临时展棚，人潮挤着人潮，每个传统...</description>
-      <content:encoded><![CDATA[又逢十月上海国际乐器展，算下来这已是我第十五次赴约。走出展馆时风里带着深秋的凉意，心里的失落却比风更沉。我还清晰记得鼎盛时的模样：全馆满员仍不够用，室外要搭起连片临时展棚，人潮挤着人潮，每个传统...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Thu, 12 Nov 2026 05:34:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">d55c381b60e66d201b69</guid>
-      <title>Riven 主题再次更新细节</title>
-      <link>https://vind.ink/Status/1024.html</link>
-      <description>还是基于满心的最新版主题 Riven 2.4.1，之前对齐进行了一些魔改，但是使用中发现了一些小问题，昨晚和今天上午再次优化。本篇就不截图了吧，主要是比较懒~😄本次更新有以下几点：评论时表情符号...</description>
-      <content:encoded><![CDATA[还是基于满心的最新版主题 Riven 2.4.1，之前对齐进行了一些魔改，但是使用中发现了一些小问题，昨晚和今天上午再次优化。本篇就不截图了吧，主要是比较懒~😄本次更新有以下几点：评论时表情符号...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Thu, 12 Nov 2026 03:05:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
     </item>
     <item>
       <guid isPermaLink="false">4ffc1aeedfe096fd3186</guid>
@@ -2188,16 +2110,6 @@
       <author>拾光纪</author>
       <pubDate>Wed, 11 Nov 2026 01:06:49 GMT</pubDate>
       <source url="https://n22b64.cn">拾光纪</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">25402a7000d6f3794586</guid>
-      <title>给神社添几件小物：用 AI 生图做的七处小装饰</title>
-      <link>https://reimu0721.xyz/shrine-small-decorations-ai-art/</link>
-      <description>页脚的水墨小景、文章结尾的樱枝落款、目录上的小御守、登录页小景、阅读进度条上的纸鹤、页头注连绳上的挂饰、问候气泡的时辰小图——这两天给博丽神社添的七处小装饰，图都是 AI 生图画的透明底小图。</description>
-      <content:encoded><![CDATA[<div><picture><source type="image/webp" srcset="https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-300x158.jpg.webp 300w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-1024x538.jpg.webp 1024w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-768x403.jpg.webp 768w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1.jpg.webp 1200w" sizes="auto, (max-width: 300px) 100vw, 300px"><picture><source type="image/webp" srcset="https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-300x158.jpg.webp 300w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-1024x538.jpg.webp 1024w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-768x403.jpg.webp 768w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1.jpg.webp 1200w" sizes="auto, (max-width: 300px) 100vw, 300px"><img width="300" height="158" src="https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-300x158.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-300x158.jpg 300w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-1024x538.jpg 1024w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1-768x403.jpg 768w, https://reimu0721.xyz/wp-content/uploads/2026/11/cover-491-v1.jpg 1200w" sizes="auto, (max-width: 300px) 100vw, 300px" /></picture></picture></div>页脚的水墨小景、文章结尾的樱枝落款、目录上的小御守、登录页小景、阅读进度条上的纸鹤、页头注连绳上的挂饰、问候气泡的时辰小图——这两天给博丽神社添的七处小装饰，图都是 AI 生图画的透明底小图。]]></content:encoded>
-      <author>红白Reimu的小窝</author>
-      <pubDate>Tue, 10 Nov 2026 02:18:59 GMT</pubDate>
-      <source url="https://reimu0721.xyz/">红白Reimu的小窝</source>
     </item>
   </channel>
 </rss>
