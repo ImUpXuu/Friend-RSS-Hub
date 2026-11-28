@@ -4,7 +4,57 @@
     <title>Friend RSS Hub</title>
     <link>https://friend.upxuu.com/</link>
     <description>Friends' recent blog updates</description>
-    <lastBuildDate>Sat, 28 Nov 2026 00:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:53:30 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">4e92645ecdcb9343cba5</guid>
+      <title>插件更新 2026-11-28</title>
+      <link>https://vind.ink/Typecho-plugins-themes/1104.html</link>
+      <description>嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...</description>
+      <content:encoded><![CDATA[嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...]]></content:encoded>
+      <author>风·墨</author>
+      <pubDate>Sat, 28 Nov 2026 13:33:00 GMT</pubDate>
+      <source url="https://Vind.ink">风·墨</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">eaa488fff03e47ac842e</guid>
+      <title>2026 OSGJ 日志三：不用推进一局，也能直接查看游戏状态</title>
+      <link>https://xingwangzhe.fun/posts/osgj-devlog-3-direct-debug-scenes/</link>
+      <description>《守望·永昌》v1.12.4 把 24 种调试状态做成可直接进入的场景，并让竖屏三选一升级卡在 390×844 屏幕内完整显示。</description>
+      <content:encoded><![CDATA[《守望·永昌》v1.12.4 把 24 种调试状态做成可直接进入的场景，并让竖屏三选一升级卡在 390×844 屏幕内完整显示。]]></content:encoded>
+      <author>姓王者的博客</author>
+      <pubDate>Sat, 28 Nov 2026 12:14:06 GMT</pubDate>
+      <source url="https://xingwangzhe.fun/">姓王者的博客</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">25a73fbd0b0dbe0bbd0b</guid>
+      <title>常用的几种UI动效你都知道名字吗？</title>
+      <link>https://blog.xrbk.cn/post/115.html</link>
+      <description>快来点击阅读全文吧 ➜</description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <author>新锐博客</author>
+      <pubDate>Sat, 28 Nov 2026 11:37:00 GMT</pubDate>
+      <source url="https://blog.xrbk.cn">新锐博客</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">3a67af3c257652b841ec</guid>
+      <title>梦境——从压到小孩儿脚到车被盗</title>
+      <link>https://www.leorain.cn/article/i-dreamed-of-pressing-the-foot-of-my-neighbors-child</link>
+      <description>快来点击阅读全文吧 ➜</description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <author>leorain</author>
+      <pubDate>Sat, 28 Nov 2026 07:06:58 GMT</pubDate>
+      <source url="https://www.leorain.cn">leorain</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">f9f73855eba8c2b3cdf8</guid>
+      <title>晨诗三版</title>
+      <link>https://wuqishi.com/archives/morning-poem-3-times</link>
+      <description>小乖乖昨天 06:06 的时候给我分享了一张照片，那时候天还未亮，但是月光却格外白。</description>
+      <content:encoded><![CDATA[<img src="https://wuqishi.com/plugins/feed/assets/telemetry.gif?title=%E6%99%A8%E8%AF%97%E4%B8%89%E7%89%88&amp;url=/archives/morning-poem-3-times" width="1" height="1" alt="" style="opacity:0;">小乖乖昨天 06:06 的时候给我分享了一张照片，那时候天还未亮，但是月光却格外白。]]></content:encoded>
+      <author>蛋蛋之家</author>
+      <pubDate>Sat, 28 Nov 2026 02:21:42 GMT</pubDate>
+      <source url="https://wuqishi.com">蛋蛋之家</source>
+    </item>
     <item>
       <guid isPermaLink="false">03f08dcb60137438a88d</guid>
       <title>2026 OSGJ 日志二：把战斗调试拆成看得见的场景</title>
@@ -14,20 +64,6 @@
       <author>姓王者的博客</author>
       <pubDate>Fri, 27 Nov 2026 19:00:00 GMT</pubDate>
       <source url="https://xingwangzhe.fun/">姓王者的博客</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">48da41670bc4d2355a33</guid>
-      <title>测试</title>
-      <link>https://blog.fufu520.cn/archives/01a21d8d-4522-75fc-a9ad-240be908e42e</link>
-      <description>快来点击阅读全文吧 ➜</description>
-      <content:encoded><![CDATA[<img src="https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=%E6%B5%8B%E8%AF%95&amp;url=/archives/01a21d8d-4522-75fc-a9ad-240be908e42e" width="1" height="1" alt="" style="opacity:0;">
-<div class="halo-3d-model" data-halo-3d-model="true" data-src="/upload/fufu.glb" data-mtl-src="" data-name="fufu.glb" data-width="100%" data-height="420px" data-theme="auto" data-autorotate="true" data-background="solid" data-grid="true" data-controls="true" style="position: relative; display: block; width: 100%; height: 420px; overflow: hidden; margin: 1rem auto;">
- <script src="https://blog.fufu520.cn/plugins/PluginThreeD/assets/console/halo-3d-runtime.js" defer data-halo-3d-runtime="true"></script>
-</div>
-<p style=""></p>]]></content:encoded>
-      <author>fufuの小窝</author>
-      <pubDate>Fri, 27 Nov 2026 15:12:05 GMT</pubDate>
-      <source url="https://blog.fufu520.cn/">fufuの小窝</source>
     </item>
     <item>
       <guid isPermaLink="false">9ca1bd4c46e12f93b627</guid>
@@ -58,16 +94,6 @@
       <author>蛋蛋之家</author>
       <pubDate>Fri, 27 Nov 2026 03:38:16 GMT</pubDate>
       <source url="https://wuqishi.com">蛋蛋之家</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">917b6d85d088e75bd5e9</guid>
-      <title>插件更新 2026-11-27</title>
-      <link>https://vind.ink/Typecho-plugins-themes/1104.html</link>
-      <description>嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...</description>
-      <content:encoded><![CDATA[嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...]]></content:encoded>
-      <author>风·墨</author>
-      <pubDate>Fri, 27 Nov 2026 02:22:00 GMT</pubDate>
-      <source url="https://Vind.ink">风·墨</source>
     </item>
     <item>
       <guid isPermaLink="false">4dcf4ead3913ccd59c93</guid>
@@ -546,6 +572,16 @@
       <source url="https://zyzu.top">智言自语</source>
     </item>
     <item>
+      <guid isPermaLink="false">6b35c6bb2a52a502933b</guid>
+      <title>GPT Pro 账号被封了</title>
+      <link>https://www.leorain.cn/article/the-gpt-pro-account-has-been-blocked</link>
+      <description>快来点击阅读全文吧 ➜</description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <author>leorain</author>
+      <pubDate>Mon, 23 Nov 2026 06:48:14 GMT</pubDate>
+      <source url="https://www.leorain.cn">leorain</source>
+    </item>
+    <item>
       <guid isPermaLink="false">29a029a1b46d626b3b54</guid>
       <title>2026 OSGJ 日志一：〈滚幕〉</title>
       <link>https://xingwangzhe.fun/posts/osgj-devlog-1-credits/</link>
@@ -1017,6 +1053,36 @@
       <source url="https://blog.fufu520.cn/">fufuの小窝</source>
     </item>
     <item>
+      <guid isPermaLink="false">bfbfa28952745c831288</guid>
+      <title>Uptime-kuma美化</title>
+      <link>https://blog.chario.cn/21.html</link>
+      <description>前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...</description>
+      <content:encoded><![CDATA[前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...]]></content:encoded>
+      <author>枝语风笺</author>
+      <pubDate>Sun, 22 Nov 2026 06:40:00 GMT</pubDate>
+      <source url="https://blog.chario.cn/">枝语风笺</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">991c6e92c08bd31ef9d9</guid>
+      <title>Typecho优化</title>
+      <link>https://blog.chario.cn/20.html</link>
+      <description>开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start(&amp;#039;ob_gzhandler&amp;#039;);...</description>
+      <content:encoded><![CDATA[开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start(&#039;ob_gzhandler&#039;);...]]></content:encoded>
+      <author>枝语风笺</author>
+      <pubDate>Sun, 22 Nov 2026 06:39:00 GMT</pubDate>
+      <source url="https://blog.chario.cn/">枝语风笺</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">9653ff3d7d36e70a8321</guid>
+      <title>鱼鱼api使用教程</title>
+      <link>https://blog.chario.cn/15.html</link>
+      <description>前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...</description>
+      <content:encoded><![CDATA[前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...]]></content:encoded>
+      <author>枝语风笺</author>
+      <pubDate>Sun, 22 Nov 2026 06:36:00 GMT</pubDate>
+      <source url="https://blog.chario.cn/">枝语风笺</source>
+    </item>
+    <item>
       <guid isPermaLink="false">f0f3fa42ecf18e7e165d</guid>
       <title>我和AI</title>
       <link>https://reimu0721.xyz/me-and-ai/</link>
@@ -1344,14 +1410,14 @@
       <source url="https://furrity.pages.dev/">龙星划空</source>
     </item>
     <item>
-      <guid isPermaLink="false">dd6108d1450156bbc5d9</guid>
-      <title>炖个梨喝喝</title>
-      <link>https://chrison.cn/live/538.html</link>
-      <description>本来说在奥乐齐买几个吃吃，结果那么大一个，一个得吃撑，所以改成炖梨汤润润肺。</description>
-      <content:encoded><![CDATA[本来说在奥乐齐买几个吃吃，结果那么大一个，一个得吃撑，所以改成炖梨汤润润肺。]]></content:encoded>
-      <author>目的地-Destination</author>
-      <pubDate>Sat, 21 Nov 2026 07:15:47 GMT</pubDate>
-      <source url="https://chrison.cn">目的地-Destination</source>
+      <guid isPermaLink="false">eb9830e4206eeda37b52</guid>
+      <title>再见了豫FD186xx</title>
+      <link>https://www.leorain.cn/article/non-local-residents-can-apply-for-a-new-energy-small-car-license-plate-in-hangzhou</link>
+      <description>快来点击阅读全文吧 ➜</description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <author>leorain</author>
+      <pubDate>Sat, 21 Nov 2026 03:29:03 GMT</pubDate>
+      <source url="https://www.leorain.cn">leorain</source>
     </item>
     <item>
       <guid isPermaLink="false">a92e0da76504b62a3049</guid>
@@ -1485,16 +1551,6 @@
       <source url="https://mugcx.com">沐光橙香</source>
     </item>
     <item>
-      <guid isPermaLink="false">9e8091e06abcda1fbf34</guid>
-      <title>站点小改：胶囊导航，强化粉色质感</title>
-      <link>https://blog.feng.pub/1120269813.html</link>
-      <description>这次小改主要是采用胶囊样式的导航，另外对配色做了一点提升，增强粉色质感。暗黑模式添加回来了，并对粉色暗黑模式做 [&amp;#8230;]</description>
-      <content:encoded><![CDATA[这次小改主要是采用胶囊样式的导航，另外对配色做了一点提升，增强粉色质感。暗黑模式添加回来了，并对粉色暗黑模式做 [&#8230;]]]></content:encoded>
-      <author>阿锋的小宇宙</author>
-      <pubDate>Fri, 20 Nov 2026 13:32:21 GMT</pubDate>
-      <source url="https://blog.feng.pub">阿锋的小宇宙</source>
-    </item>
-    <item>
       <guid isPermaLink="false">f367ff8efb10c0f1e88f</guid>
       <title>Kali NetHunter Pro 当主力机用了一周：能打电话、能扫码付款吗？</title>
       <link>https://bk.zhaozhiqiang.pw/1787.html</link>
@@ -1557,16 +1613,6 @@
       <author>旺东自留地</author>
       <pubDate>Thu, 19 Nov 2026 11:57:21 GMT</pubDate>
       <source url="https://wang618.cn/">旺东自留地</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">82ea28d9a452850c0a27</guid>
-      <title>5年啦！「阿锋的小宇宙」博客五周年</title>
-      <link>https://blog.feng.pub/11202610065.html</link>
-      <description>2021年11月19日 17:20，「阿锋的小宇宙 FENG.PUB」ICP备案审核通过，站点随即上线，开始了 [&amp;#8230;]</description>
-      <content:encoded><![CDATA[2021年11月19日 17:20，「阿锋的小宇宙 FENG.PUB」ICP备案审核通过，站点随即上线，开始了 [&#8230;]]]></content:encoded>
-      <author>阿锋的小宇宙</author>
-      <pubDate>Thu, 19 Nov 2026 09:20:00 GMT</pubDate>
-      <source url="https://blog.feng.pub">阿锋的小宇宙</source>
     </item>
     <item>
       <guid isPermaLink="false">8ae4c4415ae3432a4563</guid>
@@ -1888,16 +1934,6 @@
       <source url="https://bk.zhaozhiqiang.pw/">星宇安全实验室</source>
     </item>
     <item>
-      <guid isPermaLink="false">82a44a0758341de0a97c</guid>
-      <title>32个独立博客聚合站，你常去哪个聚合站</title>
-      <link>https://blog.feng.pub/11202610032.html</link>
-      <description>2021年的时候还没多少个博客聚合站，现在感觉多了不少，若梦博客、念头、万界书简、SitesLink等等。数不 [&amp;#8230;]</description>
-      <content:encoded><![CDATA[2021年的时候还没多少个博客聚合站，现在感觉多了不少，若梦博客、念头、万界书简、SitesLink等等。数不 [&#8230;]]]></content:encoded>
-      <author>阿锋的小宇宙</author>
-      <pubDate>Wed, 18 Nov 2026 06:21:34 GMT</pubDate>
-      <source url="https://blog.feng.pub">阿锋的小宇宙</source>
-    </item>
-    <item>
       <guid isPermaLink="false">b5b07e824dcc22aa8537</guid>
       <title>一加 6T 刷 Kali NetHunter Pro 完整教程：从解锁到启用 OTG</title>
       <link>https://bk.zhaozhiqiang.pw/1777.html</link>
@@ -2165,16 +2201,6 @@
       <source url="https://upxuu.com">UpXuu&apos;s blog</source>
     </item>
     <item>
-      <guid isPermaLink="false">a5157569f60c0adc3c5c</guid>
-      <title>花了一晚上，又改了个网站主题风格</title>
-      <link>https://chrison.cn/live/537.html</link>
-      <description>花了一晚上，又改了个网站主题风格 消耗了5.7亿token 越来越喜欢简约风格了，看着比较舒服</description>
-      <content:encoded><![CDATA[花了一晚上，又改了个网站主题风格 消耗了5.7亿token 越来越喜欢简约风格了，看着比较舒服]]></content:encoded>
-      <author>目的地-Destination</author>
-      <pubDate>Sat, 14 Nov 2026 07:27:50 GMT</pubDate>
-      <source url="https://chrison.cn">目的地-Destination</source>
-    </item>
-    <item>
       <guid isPermaLink="false">aedf98572c15eeadf194</guid>
       <title>服务器商家封smtp</title>
       <link>https://blog.lqay.cn/index.php/2026/11/14/%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%95%86%e5%ae%b6%e5%b0%81smtp/</link>
@@ -2230,28 +2256,6 @@
       <author>Hyde Blog</author>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://seasir.top">Hyde Blog</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">e2b58c5601440aadde5d</guid>
-      <title>CREO插件</title>
-      <link>https://www.zyzu.top/?post=27</link>
-      <description>CREO工程图球标插件 阅读全文</description>
-      <content:encoded><![CDATA[CREO工程图球标插件 <a href="https://www.zyzu.top/?post=27">阅读全文</a>]]></content:encoded>
-      <author>智言自语</author>
-      <pubDate>Fri, 13 Nov 2026 09:06:22 GMT</pubDate>
-      <source url="https://zyzu.top">智言自语</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">64a0937ffe9f90c2c6d6</guid>
-      <title>一加 8 / 8T 刷 NetHunter：先把代号搞对</title>
-      <link>https://bk.zhaozhiqiang.pw/1738.html</link>
-      <description>网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号...</description>
-      <content:encoded><![CDATA[<p>网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号。</p>
-<p><a href="https://bk.zhaozhiqiang.pw/1738.html">一加 8 / 8T 刷 NetHunter：先把代号搞对</a>最先出现在<a href="https://bk.zhaozhiqiang.pw">星宇安全实验室</a>。</p>
-]]></content:encoded>
-      <author>星宇安全实验室</author>
-      <pubDate>Fri, 13 Nov 2026 08:25:11 GMT</pubDate>
-      <source url="https://bk.zhaozhiqiang.pw/">星宇安全实验室</source>
     </item>
   </channel>
 </rss>

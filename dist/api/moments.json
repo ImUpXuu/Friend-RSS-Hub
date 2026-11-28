@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "id": "4e92645ecdcb9343cba5",
+      "title": "插件更新 2026-11-28",
+      "link": "https://vind.ink/Typecho-plugins-themes/1104.html",
+      "description": "嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...",
+      "content": "嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...",
+      "author": "风·墨",
+      "authorUrl": "https://Vind.ink",
+      "avatar": "https://Vind.ink/icon.png",
+      "publishedAt": "2026-11-28T13:33:00.000Z",
+      "source": "风·墨",
+      "sourceUrl": "https://Vind.ink"
+    },
+    {
+      "id": "eaa488fff03e47ac842e",
+      "title": "2026 OSGJ 日志三：不用推进一局，也能直接查看游戏状态",
+      "link": "https://xingwangzhe.fun/posts/osgj-devlog-3-direct-debug-scenes/",
+      "description": "《守望·永昌》v1.12.4 把 24 种调试状态做成可直接进入的场景，并让竖屏三选一升级卡在 390×844 屏幕内完整显示。",
+      "content": "《守望·永昌》v1.12.4 把 24 种调试状态做成可直接进入的场景，并让竖屏三选一升级卡在 390×844 屏幕内完整显示。",
+      "author": "姓王者的博客",
+      "authorUrl": "https://xingwangzhe.fun/",
+      "avatar": "https://xingwangzhe.fun/avatar.webp",
+      "publishedAt": "2026-11-28T12:14:06.000Z",
+      "source": "姓王者的博客",
+      "sourceUrl": "https://xingwangzhe.fun/"
+    },
+    {
+      "id": "25a73fbd0b0dbe0bbd0b",
+      "title": "常用的几种UI动效你都知道名字吗？",
+      "link": "https://blog.xrbk.cn/post/115.html",
+      "description": "快来点击阅读全文吧 ➜",
+      "content": "",
+      "author": "新锐博客",
+      "authorUrl": "https://blog.xrbk.cn",
+      "avatar": "https://www.google.com/s2/favicons?domain=blog.xrbk.cn&sz=128",
+      "publishedAt": "2026-11-28T11:37:00.000Z",
+      "source": "新锐博客",
+      "sourceUrl": "https://blog.xrbk.cn"
+    },
+    {
+      "id": "3a67af3c257652b841ec",
+      "title": "梦境——从压到小孩儿脚到车被盗",
+      "link": "https://www.leorain.cn/article/i-dreamed-of-pressing-the-foot-of-my-neighbors-child",
+      "description": "快来点击阅读全文吧 ➜",
+      "content": "",
+      "author": "leorain",
+      "authorUrl": "https://www.leorain.cn",
+      "avatar": "https://www.leorain.cn/images/logo.png",
+      "publishedAt": "2026-11-28T07:06:58.000Z",
+      "source": "leorain",
+      "sourceUrl": "https://www.leorain.cn"
+    },
+    {
+      "id": "f9f73855eba8c2b3cdf8",
+      "title": "晨诗三版",
+      "link": "https://wuqishi.com/archives/morning-poem-3-times",
+      "description": "小乖乖昨天 06:06 的时候给我分享了一张照片，那时候天还未亮，但是月光却格外白。",
+      "content": "<img src=\"https://wuqishi.com/plugins/feed/assets/telemetry.gif?title=%E6%99%A8%E8%AF%97%E4%B8%89%E7%89%88&amp;url=/archives/morning-poem-3-times\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">小乖乖昨天 06:06 的时候给我分享了一张照片，那时候天还未亮，但是月光却格外白。",
+      "author": "蛋蛋之家",
+      "authorUrl": "https://wuqishi.com",
+      "avatar": "https://wuqishi.com/dan.svg",
+      "publishedAt": "2026-11-28T02:21:42.000Z",
+      "source": "蛋蛋之家",
+      "sourceUrl": "https://wuqishi.com"
+    },
+    {
       "id": "03f08dcb60137438a88d",
       "title": "2026 OSGJ 日志二：把战斗调试拆成看得见的场景",
       "link": "https://xingwangzhe.fun/posts/osgj-devlog-2-debuggable-battle/",
@@ -12,19 +77,6 @@
       "publishedAt": "2026-11-27T19:00:00.000Z",
       "source": "姓王者的博客",
       "sourceUrl": "https://xingwangzhe.fun/"
-    },
-    {
-      "id": "48da41670bc4d2355a33",
-      "title": "测试",
-      "link": "https://blog.fufu520.cn/archives/01a21d8d-4522-75fc-a9ad-240be908e42e",
-      "description": "快来点击阅读全文吧 ➜",
-      "content": "<img src=\"https://blog.fufu520.cn/plugins/feed/assets/telemetry.gif?title=%E6%B5%8B%E8%AF%95&amp;url=/archives/01a21d8d-4522-75fc-a9ad-240be908e42e\" width=\"1\" height=\"1\" alt=\"\" style=\"opacity:0;\">\n<div class=\"halo-3d-model\" data-halo-3d-model=\"true\" data-src=\"/upload/fufu.glb\" data-mtl-src=\"\" data-name=\"fufu.glb\" data-width=\"100%\" data-height=\"420px\" data-theme=\"auto\" data-autorotate=\"true\" data-background=\"solid\" data-grid=\"true\" data-controls=\"true\" style=\"position: relative; display: block; width: 100%; height: 420px; overflow: hidden; margin: 1rem auto;\">\n <script src=\"https://blog.fufu520.cn/plugins/PluginThreeD/assets/console/halo-3d-runtime.js\" defer data-halo-3d-runtime=\"true\"></script>\n</div>\n<p style=\"\"></p>",
-      "author": "fufuの小窝",
-      "authorUrl": "https://blog.fufu520.cn/",
-      "avatar": "https://blog.fufu520.cn/upload/logo-IjBa.webp",
-      "publishedAt": "2026-11-27T15:12:05.000Z",
-      "source": "fufuの小窝",
-      "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
       "id": "9ca1bd4c46e12f93b627",
@@ -64,19 +116,6 @@
       "publishedAt": "2026-11-27T03:38:16.000Z",
       "source": "蛋蛋之家",
       "sourceUrl": "https://wuqishi.com"
-    },
-    {
-      "id": "917b6d85d088e75bd5e9",
-      "title": "插件更新 2026-11-27",
-      "link": "https://vind.ink/Typecho-plugins-themes/1104.html",
-      "description": "嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...",
-      "content": "嗯，又折腾插件了，做了下面几个事情：创建统计插件之前我用的第三方JavaScript的统计代码，发现它们会拖慢网页加载速度，后来就都删除了。每次从宝塔面板中可以查看到基础统计，但是仅有最近两三天...",
-      "author": "风·墨",
-      "authorUrl": "https://Vind.ink",
-      "avatar": "https://Vind.ink/icon.png",
-      "publishedAt": "2026-11-27T02:22:00.000Z",
-      "source": "风·墨",
-      "sourceUrl": "https://Vind.ink"
     },
     {
       "id": "4dcf4ead3913ccd59c93",
@@ -443,6 +482,19 @@
       "sourceUrl": "https://zyzu.top"
     },
     {
+      "id": "6b35c6bb2a52a502933b",
+      "title": "GPT Pro 账号被封了",
+      "link": "https://www.leorain.cn/article/the-gpt-pro-account-has-been-blocked",
+      "description": "快来点击阅读全文吧 ➜",
+      "content": "",
+      "author": "leorain",
+      "authorUrl": "https://www.leorain.cn",
+      "avatar": "https://www.leorain.cn/images/logo.png",
+      "publishedAt": "2026-11-23T06:48:14.000Z",
+      "source": "leorain",
+      "sourceUrl": "https://www.leorain.cn"
+    },
+    {
       "id": "29a029a1b46d626b3b54",
       "title": "2026 OSGJ 日志一：〈滚幕〉",
       "link": "https://xingwangzhe.fun/posts/osgj-devlog-1-credits/",
@@ -597,6 +649,45 @@
       "publishedAt": "2026-11-22T08:28:00.000Z",
       "source": "fufuの小窝",
       "sourceUrl": "https://blog.fufu520.cn/"
+    },
+    {
+      "id": "bfbfa28952745c831288",
+      "title": "Uptime-kuma美化",
+      "link": "https://blog.chario.cn/21.html",
+      "description": "前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...",
+      "content": "前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...",
+      "author": "枝语风笺",
+      "authorUrl": "https://blog.chario.cn/",
+      "avatar": "https://blog.chario.cn/favicon.ico",
+      "publishedAt": "2026-11-22T06:40:00.000Z",
+      "source": "枝语风笺",
+      "sourceUrl": "https://blog.chario.cn/"
+    },
+    {
+      "id": "991c6e92c08bd31ef9d9",
+      "title": "Typecho优化",
+      "link": "https://blog.chario.cn/20.html",
+      "description": "开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start(&#039;ob_gzhandler&#039;);...",
+      "content": "开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start(&#039;ob_gzhandler&#039;);...",
+      "author": "枝语风笺",
+      "authorUrl": "https://blog.chario.cn/",
+      "avatar": "https://blog.chario.cn/favicon.ico",
+      "publishedAt": "2026-11-22T06:39:00.000Z",
+      "source": "枝语风笺",
+      "sourceUrl": "https://blog.chario.cn/"
+    },
+    {
+      "id": "9653ff3d7d36e70a8321",
+      "title": "鱼鱼api使用教程",
+      "link": "https://blog.chario.cn/15.html",
+      "description": "前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...",
+      "content": "前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...",
+      "author": "枝语风笺",
+      "authorUrl": "https://blog.chario.cn/",
+      "avatar": "https://blog.chario.cn/favicon.ico",
+      "publishedAt": "2026-11-22T06:36:00.000Z",
+      "source": "枝语风笺",
+      "sourceUrl": "https://blog.chario.cn/"
     },
     {
       "id": "f0f3fa42ecf18e7e165d",
@@ -950,17 +1041,17 @@
       "sourceUrl": "https://furrity.pages.dev/"
     },
     {
-      "id": "dd6108d1450156bbc5d9",
-      "title": "炖个梨喝喝",
-      "link": "https://chrison.cn/live/538.html",
-      "description": "本来说在奥乐齐买几个吃吃，结果那么大一个，一个得吃撑，所以改成炖梨汤润润肺。",
-      "content": "本来说在奥乐齐买几个吃吃，结果那么大一个，一个得吃撑，所以改成炖梨汤润润肺。",
-      "author": "目的地-Destination",
-      "authorUrl": "https://chrison.cn",
-      "avatar": "https://chrison.cn/logo.webp",
-      "publishedAt": "2026-11-21T07:15:47.000Z",
-      "source": "目的地-Destination",
-      "sourceUrl": "https://chrison.cn"
+      "id": "eb9830e4206eeda37b52",
+      "title": "再见了豫FD186xx",
+      "link": "https://www.leorain.cn/article/non-local-residents-can-apply-for-a-new-energy-small-car-license-plate-in-hangzhou",
+      "description": "快来点击阅读全文吧 ➜",
+      "content": "",
+      "author": "leorain",
+      "authorUrl": "https://www.leorain.cn",
+      "avatar": "https://www.leorain.cn/images/logo.png",
+      "publishedAt": "2026-11-21T03:29:03.000Z",
+      "source": "leorain",
+      "sourceUrl": "https://www.leorain.cn"
     },
     {
       "id": "a92e0da76504b62a3049",
@@ -1080,19 +1171,6 @@
       "sourceUrl": "https://mugcx.com"
     },
     {
-      "id": "9e8091e06abcda1fbf34",
-      "title": "站点小改：胶囊导航，强化粉色质感",
-      "link": "https://blog.feng.pub/1120269813.html",
-      "description": "这次小改主要是采用胶囊样式的导航，另外对配色做了一点提升，增强粉色质感。暗黑模式添加回来了，并对粉色暗黑模式做 [&#8230;]",
-      "content": "这次小改主要是采用胶囊样式的导航，另外对配色做了一点提升，增强粉色质感。暗黑模式添加回来了，并对粉色暗黑模式做 [&#8230;]",
-      "author": "阿锋的小宇宙",
-      "authorUrl": "https://blog.feng.pub",
-      "avatar": "https://feng.pub/favicon.ico",
-      "publishedAt": "2026-11-20T13:32:21.000Z",
-      "source": "阿锋的小宇宙",
-      "sourceUrl": "https://blog.feng.pub"
-    },
-    {
       "id": "f367ff8efb10c0f1e88f",
       "title": "Kali NetHunter Pro 当主力机用了一周：能打电话、能扫码付款吗？",
       "link": "https://bk.zhaozhiqiang.pw/1787.html",
@@ -1169,19 +1247,6 @@
       "publishedAt": "2026-11-19T11:57:21.000Z",
       "source": "旺东自留地",
       "sourceUrl": "https://wang618.cn/"
-    },
-    {
-      "id": "82ea28d9a452850c0a27",
-      "title": "5年啦！「阿锋的小宇宙」博客五周年",
-      "link": "https://blog.feng.pub/11202610065.html",
-      "description": "2021年11月19日 17:20，「阿锋的小宇宙 FENG.PUB」ICP备案审核通过，站点随即上线，开始了 [&#8230;]",
-      "content": "2021年11月19日 17:20，「阿锋的小宇宙 FENG.PUB」ICP备案审核通过，站点随即上线，开始了 [&#8230;]",
-      "author": "阿锋的小宇宙",
-      "authorUrl": "https://blog.feng.pub",
-      "avatar": "https://feng.pub/favicon.ico",
-      "publishedAt": "2026-11-19T09:20:00.000Z",
-      "source": "阿锋的小宇宙",
-      "sourceUrl": "https://blog.feng.pub"
     },
     {
       "id": "8ae4c4415ae3432a4563",
@@ -1286,19 +1351,6 @@
       "publishedAt": "2026-11-18T09:29:56.000Z",
       "source": "星宇安全实验室",
       "sourceUrl": "https://bk.zhaozhiqiang.pw/"
-    },
-    {
-      "id": "82a44a0758341de0a97c",
-      "title": "32个独立博客聚合站，你常去哪个聚合站",
-      "link": "https://blog.feng.pub/11202610032.html",
-      "description": "2021年的时候还没多少个博客聚合站，现在感觉多了不少，若梦博客、念头、万界书简、SitesLink等等。数不 [&#8230;]",
-      "content": "2021年的时候还没多少个博客聚合站，现在感觉多了不少，若梦博客、念头、万界书简、SitesLink等等。数不 [&#8230;]",
-      "author": "阿锋的小宇宙",
-      "authorUrl": "https://blog.feng.pub",
-      "avatar": "https://feng.pub/favicon.ico",
-      "publishedAt": "2026-11-18T06:21:34.000Z",
-      "source": "阿锋的小宇宙",
-      "sourceUrl": "https://blog.feng.pub"
     },
     {
       "id": "b5b07e824dcc22aa8537",
@@ -1613,19 +1665,6 @@
       "sourceUrl": "https://upxuu.com"
     },
     {
-      "id": "a5157569f60c0adc3c5c",
-      "title": "花了一晚上，又改了个网站主题风格",
-      "link": "https://chrison.cn/live/537.html",
-      "description": "花了一晚上，又改了个网站主题风格 消耗了5.7亿token 越来越喜欢简约风格了，看着比较舒服",
-      "content": "花了一晚上，又改了个网站主题风格 消耗了5.7亿token 越来越喜欢简约风格了，看着比较舒服",
-      "author": "目的地-Destination",
-      "authorUrl": "https://chrison.cn",
-      "avatar": "https://chrison.cn/logo.webp",
-      "publishedAt": "2026-11-14T07:27:50.000Z",
-      "source": "目的地-Destination",
-      "sourceUrl": "https://chrison.cn"
-    },
-    {
       "id": "aedf98572c15eeadf194",
       "title": "服务器商家封smtp",
       "link": "https://blog.lqay.cn/index.php/2026/11/14/%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%95%86%e5%ae%b6%e5%b0%81smtp/",
@@ -1689,36 +1728,10 @@
       "publishedAt": "2026-11-14T00:00:00.000Z",
       "source": "Hyde Blog",
       "sourceUrl": "https://seasir.top"
-    },
-    {
-      "id": "e2b58c5601440aadde5d",
-      "title": "CREO插件",
-      "link": "https://www.zyzu.top/?post=27",
-      "description": "CREO工程图球标插件 阅读全文",
-      "content": "CREO工程图球标插件 <a href=\"https://www.zyzu.top/?post=27\">阅读全文</a>",
-      "author": "智言自语",
-      "authorUrl": "https://zyzu.top",
-      "avatar": "https://zyzu.top/img/zyzu11.png",
-      "publishedAt": "2026-11-13T09:06:22.000Z",
-      "source": "智言自语",
-      "sourceUrl": "https://zyzu.top"
-    },
-    {
-      "id": "64a0937ffe9f90c2c6d6",
-      "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
-      "link": "https://bk.zhaozhiqiang.pw/1738.html",
-      "description": "网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号...",
-      "content": "<p>网上关于一加 8 系列的代号乱七八糟，写成 Inconic、Keystone 的都有。代号错了，内核、TWRP、固件全错。这篇从正确代号（instantnoodle / kebab）讲起，说清 8 和 8T 的真实差异、国行解锁的额外门槛、init_boot 的判断方法，以及内核还能不能用的三个信号。</p>\n<p><a href=\"https://bk.zhaozhiqiang.pw/1738.html\">一加 8 / 8T 刷 NetHunter：先把代号搞对</a>最先出现在<a href=\"https://bk.zhaozhiqiang.pw\">星宇安全实验室</a>。</p>\n",
-      "author": "星宇安全实验室",
-      "authorUrl": "https://bk.zhaozhiqiang.pw/",
-      "avatar": "https://www.google.com/s2/favicons?domain=bk.zhaozhiqiang.pw&sz=128",
-      "publishedAt": "2026-11-13T08:25:11.000Z",
-      "source": "星宇安全实验室",
-      "sourceUrl": "https://bk.zhaozhiqiang.pw/"
     }
   ],
-  "generatedAt": "2026-11-28T00:57:07.401Z",
-  "rangeStart": "2026-11-13T00:57:07.401Z",
-  "rangeEnd": "2026-11-28T00:57:07.401Z",
-  "total": 132
+  "generatedAt": "2026-11-28T14:53:30.891Z",
+  "rangeStart": "2026-11-13T14:53:30.891Z",
+  "rangeEnd": "2026-11-28T14:53:30.891Z",
+  "total": 133
 }
