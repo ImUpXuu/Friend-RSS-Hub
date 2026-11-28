@@ -4,7 +4,17 @@
     <title>Friend RSS Hub</title>
     <link>https://friend.upxuu.com/</link>
     <description>Friends' recent blog updates</description>
-    <lastBuildDate>Fri, 27 Nov 2026 15:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:57:07 GMT</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">03f08dcb60137438a88d</guid>
+      <title>2026 OSGJ 日志二：把战斗调试拆成看得见的场景</title>
+      <link>https://xingwangzhe.fun/posts/osgj-devlog-2-debuggable-battle/</link>
+      <description>《守望·永昌》v1.12.3 已发布，加入可复现的战斗调试房间、竖屏阵位布局与移动输入 CI。本文记录 Godot Web 版的运行时检查、浏览器验收边界和 KTR 实机限制。</description>
+      <content:encoded><![CDATA[《守望·永昌》v1.12.3 已发布，加入可复现的战斗调试房间、竖屏阵位布局与移动输入 CI。本文记录 Godot Web 版的运行时检查、浏览器验收边界和 KTR 实机限制。]]></content:encoded>
+      <author>姓王者的博客</author>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://xingwangzhe.fun/">姓王者的博客</source>
+    </item>
     <item>
       <guid isPermaLink="false">48da41670bc4d2355a33</guid>
       <title>测试</title>
@@ -526,14 +536,14 @@
       <source url="https://bk.zhaozhiqiang.pw/">星宇安全实验室</source>
     </item>
     <item>
-      <guid isPermaLink="false">6b35c6bb2a52a502933b</guid>
-      <title>GPT Pro 账号被封了</title>
-      <link>https://www.leorain.cn/article/the-gpt-pro-account-has-been-blocked</link>
-      <description>快来点击阅读全文吧 ➜</description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <author>leorain</author>
-      <pubDate>Mon, 23 Nov 2026 06:48:14 GMT</pubDate>
-      <source url="https://www.leorain.cn">leorain</source>
+      <guid isPermaLink="false">c45f194ee5bcc100f2a1</guid>
+      <title>希望-所感</title>
+      <link>https://www.zyzu.top/?post=29</link>
+      <description>韩国科幻新片. 阅读全文</description>
+      <content:encoded><![CDATA[韩国科幻新片. <a href="https://www.zyzu.top/?post=29">阅读全文</a>]]></content:encoded>
+      <author>智言自语</author>
+      <pubDate>Mon, 23 Nov 2026 06:57:15 GMT</pubDate>
+      <source url="https://zyzu.top">智言自语</source>
     </item>
     <item>
       <guid isPermaLink="false">29a029a1b46d626b3b54</guid>
@@ -689,6 +699,16 @@
       <source url="https://blog.fufu520.cn/">fufuの小窝</source>
     </item>
     <item>
+      <guid isPermaLink="false">56ec4a407f5f10646600</guid>
+      <title>星球档案馆：程序化星球生成与探索</title>
+      <link>https://somoe.xyz/blog/20261122-%E6%98%9F%E7%90%83%E6%A1%A3%E6%A1%88%E9%A6%86%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88</link>
+      <description>独立项目「星球档案馆」预览：每个世界由参数与种子完全决定，可编辑、可分享、可复现。14 颗系统预设星球、世界编辑器、随机种子构造，three.js 程序化生成，轨道俯瞰与着陆行走双视角。</description>
+      <content:encoded><![CDATA[独立项目「星球档案馆」预览：每个世界由参数与种子完全决定，可编辑、可分享、可复现。14 颗系统预设星球、世界编辑器、随机种子构造，three.js 程序化生成，轨道俯瞰与着陆行走双视角。]]></content:encoded>
+      <author>QiuMonster&apos;s Ocean Book</author>
+      <pubDate>Sun, 22 Nov 2026 08:56:47 GMT</pubDate>
+      <source url="https://blog.somoe.xyz/">QiuMonster&apos;s Ocean Book</source>
+    </item>
+    <item>
       <guid isPermaLink="false">851850410ebed0f68d52</guid>
       <title>星球档案馆：程序化星球生成与探索</title>
       <link>https://somoe.xyz/blog/20261122-%E6%98%9F%E7%90%83%E6%A1%A3%E6%A1%88%E9%A6%86%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88</link>
@@ -699,6 +719,16 @@
       <source url="https://somoe.xyz">Somoe Home</source>
     </item>
     <item>
+      <guid isPermaLink="false">ab53348825b617ec0374</guid>
+      <title>项目分享：最近囤的一批有趣项目与链接</title>
+      <link>https://somoe.xyz/blog/20261122-%E9%A1%B9%E7%9B%AE%E5%88%86%E4%BA%AB</link>
+      <description>逛网时顺手收集的项目合集：PokéBonk 浏览器 3D 宝可梦幸存器领衔，还有镭射全息抽卡、HOPE 会思考的 AI、AI 小镇、MusicFree 落雪音乐插件、GitHub 开源软件商店、Mol Mail 邮箱与 WebGL Seascape。</description>
+      <content:encoded><![CDATA[逛网时顺手收集的项目合集：PokéBonk 浏览器 3D 宝可梦幸存器领衔，还有镭射全息抽卡、HOPE 会思考的 AI、AI 小镇、MusicFree 落雪音乐插件、GitHub 开源软件商店、Mol Mail 邮箱与 WebGL Seascape。]]></content:encoded>
+      <author>QiuMonster&apos;s Ocean Book</author>
+      <pubDate>Sun, 22 Nov 2026 08:52:08 GMT</pubDate>
+      <source url="https://blog.somoe.xyz/">QiuMonster&apos;s Ocean Book</source>
+    </item>
+    <item>
       <guid isPermaLink="false">c1419923728590f673a8</guid>
       <title>项目分享：最近囤的一批有趣项目与链接</title>
       <link>https://somoe.xyz/blog/20261122-%E9%A1%B9%E7%9B%AE%E5%88%86%E4%BA%AB</link>
@@ -707,6 +737,16 @@
       <author>Somoe Home</author>
       <pubDate>Sun, 22 Nov 2026 08:52:08 GMT</pubDate>
       <source url="https://somoe.xyz">Somoe Home</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">3ce348c09471ea881d77</guid>
+      <title>Matrix 协议的聊天项目探索：博客聊天室与 SomoeChat</title>
+      <link>https://somoe.xyz/blog/20261122-Matrix%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A1%B9%E7%9B%AE%E6%8E%A2%E7%B4%A2</link>
+      <description>基于 Matrix 协议的多端产出分享：嵌进手账博客的聊天室（聊天大厅、音乐电台、视效影院三视图），以及 SomoeChat 客户端的桌面版与鸿蒙版。</description>
+      <content:encoded><![CDATA[基于 Matrix 协议的多端产出分享：嵌进手账博客的聊天室（聊天大厅、音乐电台、视效影院三视图），以及 SomoeChat 客户端的桌面版与鸿蒙版。]]></content:encoded>
+      <author>QiuMonster&apos;s Ocean Book</author>
+      <pubDate>Sun, 22 Nov 2026 08:41:23 GMT</pubDate>
+      <source url="https://blog.somoe.xyz/">QiuMonster&apos;s Ocean Book</source>
     </item>
     <item>
       <guid isPermaLink="false">f73b8dad5b9956b07e79</guid>
@@ -975,36 +1015,6 @@
       <author>fufuの小窝</author>
       <pubDate>Sun, 22 Nov 2026 08:28:00 GMT</pubDate>
       <source url="https://blog.fufu520.cn/">fufuの小窝</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">bfbfa28952745c831288</guid>
-      <title>Uptime-kuma美化</title>
-      <link>https://blog.chario.cn/21.html</link>
-      <description>前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...</description>
-      <content:encoded><![CDATA[前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...]]></content:encoded>
-      <author>枝语风笺</author>
-      <pubDate>Sun, 22 Nov 2026 06:40:00 GMT</pubDate>
-      <source url="https://blog.chario.cn/">枝语风笺</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">991c6e92c08bd31ef9d9</guid>
-      <title>Typecho优化</title>
-      <link>https://blog.chario.cn/20.html</link>
-      <description>开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start(&apos;ob_gzhandler&apos;);Copynginx ...</description>
-      <content:encoded><![CDATA[开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start('ob_gzhandler');Copynginx ...]]></content:encoded>
-      <author>枝语风笺</author>
-      <pubDate>Sun, 22 Nov 2026 06:39:00 GMT</pubDate>
-      <source url="https://blog.chario.cn/">枝语风笺</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">9653ff3d7d36e70a8321</guid>
-      <title>鱼鱼api使用教程</title>
-      <link>https://blog.chario.cn/15.html</link>
-      <description>前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...</description>
-      <content:encoded><![CDATA[前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...]]></content:encoded>
-      <author>枝语风笺</author>
-      <pubDate>Sun, 22 Nov 2026 06:36:00 GMT</pubDate>
-      <source url="https://blog.chario.cn/">枝语风笺</source>
     </item>
     <item>
       <guid isPermaLink="false">f0f3fa42ecf18e7e165d</guid>
@@ -1342,16 +1352,6 @@
       <author>目的地-Destination</author>
       <pubDate>Sat, 21 Nov 2026 07:15:47 GMT</pubDate>
       <source url="https://chrison.cn">目的地-Destination</source>
-    </item>
-    <item>
-      <guid isPermaLink="false">eb9830e4206eeda37b52</guid>
-      <title>再见了豫FD186xx</title>
-      <link>https://www.leorain.cn/article/non-local-residents-can-apply-for-a-new-energy-small-car-license-plate-in-hangzhou</link>
-      <description>快来点击阅读全文吧 ➜</description>
-      <content:encoded><![CDATA[]]></content:encoded>
-      <author>leorain</author>
-      <pubDate>Sat, 21 Nov 2026 03:29:03 GMT</pubDate>
-      <source url="https://www.leorain.cn">leorain</source>
     </item>
     <item>
       <guid isPermaLink="false">a92e0da76504b62a3049</guid>
@@ -2195,6 +2195,16 @@
       <source url="https://wuqishi.com">蛋蛋之家</source>
     </item>
     <item>
+      <guid isPermaLink="false">cb57210ae97232e189e7</guid>
+      <title>EMLOG插件</title>
+      <link>https://www.zyzu.top/?post=28</link>
+      <description>EMLOG文章带投票功能的插件 阅读全文</description>
+      <content:encoded><![CDATA[EMLOG文章带投票功能的插件 <a href="https://www.zyzu.top/?post=28">阅读全文</a>]]></content:encoded>
+      <author>智言自语</author>
+      <pubDate>Sat, 14 Nov 2026 01:01:52 GMT</pubDate>
+      <source url="https://zyzu.top">智言自语</source>
+    </item>
+    <item>
       <guid isPermaLink="false">4bcc787f9b86af695d20</guid>
       <title>我的网站文章URL怎么全部由两个日期，网站的文章URL变化的修复</title>
       <link>https://xfchannel.top/tech/2026-11-14-%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99%E6%96%87%E7%AB%A0URL%E6%80%8E%E4%B9%88%E5%85%A8%E9%83%A8%E7%94%B1%E4%B8%A4%E4%B8%AA%E6%97%A5%E6%9C%9F%EF%BC%8C%E7%BD%91%E7%AB%99%E7%9A%84%E6%96%87%E7%AB%A0URL%E5%8F%98%E5%8C%96%E7%9A%84%E4%BF%AE%E5%A4%8D/</link>
@@ -2220,6 +2230,16 @@
       <author>Hyde Blog</author>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://seasir.top">Hyde Blog</source>
+    </item>
+    <item>
+      <guid isPermaLink="false">e2b58c5601440aadde5d</guid>
+      <title>CREO插件</title>
+      <link>https://www.zyzu.top/?post=27</link>
+      <description>CREO工程图球标插件 阅读全文</description>
+      <content:encoded><![CDATA[CREO工程图球标插件 <a href="https://www.zyzu.top/?post=27">阅读全文</a>]]></content:encoded>
+      <author>智言自语</author>
+      <pubDate>Fri, 13 Nov 2026 09:06:22 GMT</pubDate>
+      <source url="https://zyzu.top">智言自语</source>
     </item>
     <item>
       <guid isPermaLink="false">64a0937ffe9f90c2c6d6</guid>

@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "03f08dcb60137438a88d",
+      "title": "2026 OSGJ 日志二：把战斗调试拆成看得见的场景",
+      "link": "https://xingwangzhe.fun/posts/osgj-devlog-2-debuggable-battle/",
+      "description": "《守望·永昌》v1.12.3 已发布，加入可复现的战斗调试房间、竖屏阵位布局与移动输入 CI。本文记录 Godot Web 版的运行时检查、浏览器验收边界和 KTR 实机限制。",
+      "content": "《守望·永昌》v1.12.3 已发布，加入可复现的战斗调试房间、竖屏阵位布局与移动输入 CI。本文记录 Godot Web 版的运行时检查、浏览器验收边界和 KTR 实机限制。",
+      "author": "姓王者的博客",
+      "authorUrl": "https://xingwangzhe.fun/",
+      "avatar": "https://xingwangzhe.fun/avatar.webp",
+      "publishedAt": "2026-11-27T19:00:00.000Z",
+      "source": "姓王者的博客",
+      "sourceUrl": "https://xingwangzhe.fun/"
+    },
+    {
       "id": "48da41670bc4d2355a33",
       "title": "测试",
       "link": "https://blog.fufu520.cn/archives/01a21d8d-4522-75fc-a9ad-240be908e42e",
@@ -417,17 +430,17 @@
       "sourceUrl": "https://bk.zhaozhiqiang.pw/"
     },
     {
-      "id": "6b35c6bb2a52a502933b",
-      "title": "GPT Pro 账号被封了",
-      "link": "https://www.leorain.cn/article/the-gpt-pro-account-has-been-blocked",
-      "description": "快来点击阅读全文吧 ➜",
-      "content": "",
-      "author": "leorain",
-      "authorUrl": "https://www.leorain.cn",
-      "avatar": "https://www.leorain.cn/images/logo.png",
-      "publishedAt": "2026-11-23T06:48:14.000Z",
-      "source": "leorain",
-      "sourceUrl": "https://www.leorain.cn"
+      "id": "c45f194ee5bcc100f2a1",
+      "title": "希望-所感",
+      "link": "https://www.zyzu.top/?post=29",
+      "description": "韩国科幻新片. 阅读全文",
+      "content": "韩国科幻新片. <a href=\"https://www.zyzu.top/?post=29\">阅读全文</a>",
+      "author": "智言自语",
+      "authorUrl": "https://zyzu.top",
+      "avatar": "https://zyzu.top/img/zyzu11.png",
+      "publishedAt": "2026-11-23T06:57:15.000Z",
+      "source": "智言自语",
+      "sourceUrl": "https://zyzu.top"
     },
     {
       "id": "29a029a1b46d626b3b54",
@@ -495,6 +508,19 @@
       "sourceUrl": "https://blog.fufu520.cn/"
     },
     {
+      "id": "56ec4a407f5f10646600",
+      "title": "星球档案馆：程序化星球生成与探索",
+      "link": "https://somoe.xyz/blog/20261122-%E6%98%9F%E7%90%83%E6%A1%A3%E6%A1%88%E9%A6%86%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88",
+      "description": "独立项目「星球档案馆」预览：每个世界由参数与种子完全决定，可编辑、可分享、可复现。14 颗系统预设星球、世界编辑器、随机种子构造，three.js 程序化生成，轨道俯瞰与着陆行走双视角。",
+      "content": "独立项目「星球档案馆」预览：每个世界由参数与种子完全决定，可编辑、可分享、可复现。14 颗系统预设星球、世界编辑器、随机种子构造，three.js 程序化生成，轨道俯瞰与着陆行走双视角。",
+      "author": "QiuMonster's Ocean Book",
+      "authorUrl": "https://blog.somoe.xyz/",
+      "avatar": "https://www.google.com/s2/favicons?domain=blog.somoe.xyz&sz=128",
+      "publishedAt": "2026-11-22T08:56:47.000Z",
+      "source": "QiuMonster's Ocean Book",
+      "sourceUrl": "https://blog.somoe.xyz/"
+    },
+    {
       "id": "851850410ebed0f68d52",
       "title": "星球档案馆：程序化星球生成与探索",
       "link": "https://somoe.xyz/blog/20261122-%E6%98%9F%E7%90%83%E6%A1%A3%E6%A1%88%E9%A6%86%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88",
@@ -508,6 +534,19 @@
       "sourceUrl": "https://somoe.xyz"
     },
     {
+      "id": "ab53348825b617ec0374",
+      "title": "项目分享：最近囤的一批有趣项目与链接",
+      "link": "https://somoe.xyz/blog/20261122-%E9%A1%B9%E7%9B%AE%E5%88%86%E4%BA%AB",
+      "description": "逛网时顺手收集的项目合集：PokéBonk 浏览器 3D 宝可梦幸存器领衔，还有镭射全息抽卡、HOPE 会思考的 AI、AI 小镇、MusicFree 落雪音乐插件、GitHub 开源软件商店、Mol Mail 邮箱与 WebGL Seascape。",
+      "content": "逛网时顺手收集的项目合集：PokéBonk 浏览器 3D 宝可梦幸存器领衔，还有镭射全息抽卡、HOPE 会思考的 AI、AI 小镇、MusicFree 落雪音乐插件、GitHub 开源软件商店、Mol Mail 邮箱与 WebGL Seascape。",
+      "author": "QiuMonster's Ocean Book",
+      "authorUrl": "https://blog.somoe.xyz/",
+      "avatar": "https://www.google.com/s2/favicons?domain=blog.somoe.xyz&sz=128",
+      "publishedAt": "2026-11-22T08:52:08.000Z",
+      "source": "QiuMonster's Ocean Book",
+      "sourceUrl": "https://blog.somoe.xyz/"
+    },
+    {
       "id": "c1419923728590f673a8",
       "title": "项目分享：最近囤的一批有趣项目与链接",
       "link": "https://somoe.xyz/blog/20261122-%E9%A1%B9%E7%9B%AE%E5%88%86%E4%BA%AB",
@@ -519,6 +558,19 @@
       "publishedAt": "2026-11-22T08:52:08.000Z",
       "source": "Somoe Home",
       "sourceUrl": "https://somoe.xyz"
+    },
+    {
+      "id": "3ce348c09471ea881d77",
+      "title": "Matrix 协议的聊天项目探索：博客聊天室与 SomoeChat",
+      "link": "https://somoe.xyz/blog/20261122-Matrix%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%81%8A%E5%A4%A9%E9%A1%B9%E7%9B%AE%E6%8E%A2%E7%B4%A2",
+      "description": "基于 Matrix 协议的多端产出分享：嵌进手账博客的聊天室（聊天大厅、音乐电台、视效影院三视图），以及 SomoeChat 客户端的桌面版与鸿蒙版。",
+      "content": "基于 Matrix 协议的多端产出分享：嵌进手账博客的聊天室（聊天大厅、音乐电台、视效影院三视图），以及 SomoeChat 客户端的桌面版与鸿蒙版。",
+      "author": "QiuMonster's Ocean Book",
+      "authorUrl": "https://blog.somoe.xyz/",
+      "avatar": "https://www.google.com/s2/favicons?domain=blog.somoe.xyz&sz=128",
+      "publishedAt": "2026-11-22T08:41:23.000Z",
+      "source": "QiuMonster's Ocean Book",
+      "sourceUrl": "https://blog.somoe.xyz/"
     },
     {
       "id": "f73b8dad5b9956b07e79",
@@ -545,45 +597,6 @@
       "publishedAt": "2026-11-22T08:28:00.000Z",
       "source": "fufuの小窝",
       "sourceUrl": "https://blog.fufu520.cn/"
-    },
-    {
-      "id": "bfbfa28952745c831288",
-      "title": "Uptime-kuma美化",
-      "link": "https://blog.chario.cn/21.html",
-      "description": "前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...",
-      "content": "前言最近开始使用Uptime-kuma，但是觉得默认样式有点太普通了，网上搜了一圈，看到了新锐博客的教程，感觉不错。效果图教程直接将如下代码放到监控页面的自定义css中。/* Uptime-ku...",
-      "author": "枝语风笺",
-      "authorUrl": "https://blog.chario.cn/",
-      "avatar": "https://blog.chario.cn/favicon.ico",
-      "publishedAt": "2026-11-22T06:40:00.000Z",
-      "source": "枝语风笺",
-      "sourceUrl": "https://blog.chario.cn/"
-    },
-    {
-      "id": "991c6e92c08bd31ef9d9",
-      "title": "Typecho优化",
-      "link": "https://blog.chario.cn/20.html",
-      "description": "开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start('ob_gzhandler');Copynginx ...",
-      "content": "开启Gzip加速找到Typecho安装目录中的config.inc.php文件，添加下方代码即可/* 开启gzip压缩 */ob_start('ob_gzhandler');Copynginx ...",
-      "author": "枝语风笺",
-      "authorUrl": "https://blog.chario.cn/",
-      "avatar": "https://blog.chario.cn/favicon.ico",
-      "publishedAt": "2026-11-22T06:39:00.000Z",
-      "source": "枝语风笺",
-      "sourceUrl": "https://blog.chario.cn/"
-    },
-    {
-      "id": "9653ff3d7d36e70a8321",
-      "title": "鱼鱼api使用教程",
-      "link": "https://blog.chario.cn/15.html",
-      "description": "前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...",
-      "content": "前言这几天在将脑海里的想法做成程序，那所需要的token哪里来的呢？那就是来自于鱼鱼的api教程首先就是注册一个账号，点击下面卡片注册账号 点我注册：鱼鱼API注册完后会送1刀额度，不够的可以按...",
-      "author": "枝语风笺",
-      "authorUrl": "https://blog.chario.cn/",
-      "avatar": "https://blog.chario.cn/favicon.ico",
-      "publishedAt": "2026-11-22T06:36:00.000Z",
-      "source": "枝语风笺",
-      "sourceUrl": "https://blog.chario.cn/"
     },
     {
       "id": "f0f3fa42ecf18e7e165d",
@@ -948,19 +961,6 @@
       "publishedAt": "2026-11-21T07:15:47.000Z",
       "source": "目的地-Destination",
       "sourceUrl": "https://chrison.cn"
-    },
-    {
-      "id": "eb9830e4206eeda37b52",
-      "title": "再见了豫FD186xx",
-      "link": "https://www.leorain.cn/article/non-local-residents-can-apply-for-a-new-energy-small-car-license-plate-in-hangzhou",
-      "description": "快来点击阅读全文吧 ➜",
-      "content": "",
-      "author": "leorain",
-      "authorUrl": "https://www.leorain.cn",
-      "avatar": "https://www.leorain.cn/images/logo.png",
-      "publishedAt": "2026-11-21T03:29:03.000Z",
-      "source": "leorain",
-      "sourceUrl": "https://www.leorain.cn"
     },
     {
       "id": "a92e0da76504b62a3049",
@@ -1652,6 +1652,19 @@
       "sourceUrl": "https://wuqishi.com"
     },
     {
+      "id": "cb57210ae97232e189e7",
+      "title": "EMLOG插件",
+      "link": "https://www.zyzu.top/?post=28",
+      "description": "EMLOG文章带投票功能的插件 阅读全文",
+      "content": "EMLOG文章带投票功能的插件 <a href=\"https://www.zyzu.top/?post=28\">阅读全文</a>",
+      "author": "智言自语",
+      "authorUrl": "https://zyzu.top",
+      "avatar": "https://zyzu.top/img/zyzu11.png",
+      "publishedAt": "2026-11-14T01:01:52.000Z",
+      "source": "智言自语",
+      "sourceUrl": "https://zyzu.top"
+    },
+    {
       "id": "4bcc787f9b86af695d20",
       "title": "我的网站文章URL怎么全部由两个日期，网站的文章URL变化的修复",
       "link": "https://xfchannel.top/tech/2026-11-14-%E6%88%91%E7%9A%84%E7%BD%91%E7%AB%99%E6%96%87%E7%AB%A0URL%E6%80%8E%E4%B9%88%E5%85%A8%E9%83%A8%E7%94%B1%E4%B8%A4%E4%B8%AA%E6%97%A5%E6%9C%9F%EF%BC%8C%E7%BD%91%E7%AB%99%E7%9A%84%E6%96%87%E7%AB%A0URL%E5%8F%98%E5%8C%96%E7%9A%84%E4%BF%AE%E5%A4%8D/",
@@ -1678,6 +1691,19 @@
       "sourceUrl": "https://seasir.top"
     },
     {
+      "id": "e2b58c5601440aadde5d",
+      "title": "CREO插件",
+      "link": "https://www.zyzu.top/?post=27",
+      "description": "CREO工程图球标插件 阅读全文",
+      "content": "CREO工程图球标插件 <a href=\"https://www.zyzu.top/?post=27\">阅读全文</a>",
+      "author": "智言自语",
+      "authorUrl": "https://zyzu.top",
+      "avatar": "https://zyzu.top/img/zyzu11.png",
+      "publishedAt": "2026-11-13T09:06:22.000Z",
+      "source": "智言自语",
+      "sourceUrl": "https://zyzu.top"
+    },
+    {
       "id": "64a0937ffe9f90c2c6d6",
       "title": "一加 8 / 8T 刷 NetHunter：先把代号搞对",
       "link": "https://bk.zhaozhiqiang.pw/1738.html",
@@ -1691,8 +1717,8 @@
       "sourceUrl": "https://bk.zhaozhiqiang.pw/"
     }
   ],
-  "generatedAt": "2026-11-27T15:57:47.206Z",
-  "rangeStart": "2026-11-12T15:57:47.206Z",
-  "rangeEnd": "2026-11-27T15:57:47.206Z",
-  "total": 130
+  "generatedAt": "2026-11-28T00:57:07.401Z",
+  "rangeStart": "2026-11-13T00:57:07.401Z",
+  "rangeEnd": "2026-11-28T00:57:07.401Z",
+  "total": 132
 }
